@@ -1623,3 +1623,257 @@ LogInit: Object subsystem initialized
 [2018.12.01-21.17.57:652][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/smallworld/small_BuiltData" FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small_BuiltData.uasset" SILENT=true
 [2018.12.01-21.17.57:664][867]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_BuiltData6106FF4B44243A2CB46C4B87E1EA8618.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small_BuiltData.uasset'
 [2018.12.01-21.17.57:683][867]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/bulb_shadeA14F100F44EED49091BF6E9A4A2FEAA6.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/bulb_shade.uasset'
+[2018.12.01-21.19.05:994][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.20.40:470][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.22.33:312][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.24.29:129][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.24.58:537][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.25.04:536][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.25.07:864][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.25.19:139][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.25.24:866][962]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.12.01-21.25.28:814][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.25.32:626][425]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-21.25.32:641][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-21.25.32:642][425]PIE: New page: PIE session: small (Dec 1, 2018, 5:25:32 AM)
+[2018.12.01-21.25.32:642][425]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.01-21.25.32:648][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006663s)
+[2018.12.01-21.25.32:650][425]LogAIModule: Creating AISystem for world small
+[2018.12.01-21.25.32:650][425]LogPlayLevel: PIE: World Init took: (0.001228s)
+[2018.12.01-21.25.32:650][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008097s)
+[2018.12.01-21.25.32:686][425]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-21.25.32:711][425]LogInit: FAudioDevice initialized.
+[2018.12.01-21.25.32:745][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.01-21.25.32:747][425]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.01-13.25.32
+[2018.12.01-21.25.32:747][425]LogWorld: Bringing up level for play took: 0.001670
+[2018.12.01-21.25.32:761][425]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.182
+[2018.12.01-21.25.33:655][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.25.37:526][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.25.37:565][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-21.25.37:593][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.25.37:635][710]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.01-21.25.39:116][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.25.42:116][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.25.42:165][980]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-21.25.42:179][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-21.25.42:179][980]PIE: New page: PIE session: small (Dec 1, 2018, 5:25:42 AM)
+[2018.12.01-21.25.42:179][980]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.01-21.25.42:185][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006086s)
+[2018.12.01-21.25.42:186][980]LogAIModule: Creating AISystem for world small
+[2018.12.01-21.25.42:186][980]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2018.12.01-21.25.42:186][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.007136s)
+[2018.12.01-21.25.42:218][980]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-21.25.42:242][980]LogInit: FAudioDevice initialized.
+[2018.12.01-21.25.42:278][980]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.01-21.25.42:281][980]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.01-13.25.42
+[2018.12.01-21.25.42:282][980]LogWorld: Bringing up level for play took: 0.002150
+[2018.12.01-21.25.42:297][980]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.647
+[2018.12.01-21.25.42:923][ 16]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.26.01:473][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.26.01:514][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-21.26.01:545][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.26.01:591][130]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.01-21.28.22:058][775]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_Auto35381DC2F4AF8E9EA1657BBA57B9CD388.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/small_Auto3.umap'
+[2018.12.01-21.28.22:064][775]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/smallworld/small' took 0.128
+[2018.12.01-21.28.22:064][775]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2018.12.01-21.40.03:950][871]LogHttp: Warning: 0000023D53A58A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.01-21.40.03:950][871]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 0 (Connection 51 seems to be dead!)
+[2018.12.01-21.40.03:950][871]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 1 (Closing connection 51)
+[2018.12.01-21.40.03:950][871]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.01-21.40.03:950][871]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 3 (Closing connection 52)
+[2018.12.01-21.46.04:159][946]LogHttp: Warning: 0000023D53A58A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.01-21.46.04:159][946]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 0 (Connection 54 seems to be dead!)
+[2018.12.01-21.46.04:159][946]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 1 (Closing connection 54)
+[2018.12.01-21.46.04:159][946]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.12.01-21.46.04:159][946]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.01-21.46.04:159][946]LogHttp: Warning: 0000023D53A58A40: libcurl info message cache 4 (Closing connection 55)
+[2018.12.01-21.48.01:776][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.48.01:843][436]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-21.48.01:855][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-21.48.01:855][436]PIE: New page: PIE session: small (Dec 1, 2018, 5:48:01 AM)
+[2018.12.01-21.48.01:856][436]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.01-21.48.01:862][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005866s)
+[2018.12.01-21.48.01:863][436]LogAIModule: Creating AISystem for world small
+[2018.12.01-21.48.01:863][436]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2018.12.01-21.48.01:863][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.007460s)
+[2018.12.01-21.48.01:891][436]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-21.48.01:914][436]LogInit: FAudioDevice initialized.
+[2018.12.01-21.48.01:946][436]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.01-21.48.01:948][436]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.01-13.48.01
+[2018.12.01-21.48.01:948][436]LogWorld: Bringing up level for play took: 0.001407
+[2018.12.01-21.48.01:962][436]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 1.019
+[2018.12.01-21.48.03:230][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.48.05:245][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.48.10:712][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.48.10:750][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-21.48.10:774][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.48.10:818][961]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.01-21.48.46:162][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.48.46:244][469]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-21.48.46:255][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-21.48.46:255][469]PIE: New page: PIE session: small (Dec 1, 2018, 5:48:46 AM)
+[2018.12.01-21.48.46:255][469]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.01-21.48.46:262][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007010s)
+[2018.12.01-21.48.46:264][469]LogAIModule: Creating AISystem for world small
+[2018.12.01-21.48.46:264][469]LogPlayLevel: PIE: World Init took: (0.001900s)
+[2018.12.01-21.48.46:264][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009208s)
+[2018.12.01-21.48.46:292][469]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-21.48.46:313][469]LogInit: FAudioDevice initialized.
+[2018.12.01-21.48.46:344][469]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.01-21.48.46:346][469]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.01-13.48.46
+[2018.12.01-21.48.46:346][469]LogWorld: Bringing up level for play took: 0.001182
+[2018.12.01-21.48.46:361][469]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.582
+[2018.12.01-21.48.46:910][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.49.02:779][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.49.04:394][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.49.11:645][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.49.18:074][370]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.49.20:590][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.49.23:140][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.49.30:390][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.49.30:430][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-21.49.30:460][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.49.30:498][111]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.01-21.49.32:428][222]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (flowergirl-U)
+[2018.12.01-21.49.32:485][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.49.33:398][271]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (flowergirl-U)
+[2018.12.01-21.49.35:290][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.51.09:767][ 32]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_Auto48A3AB46B4C129898AD1917ADC0BE8952.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/small_Auto4.umap'
+[2018.12.01-21.51.09:772][ 32]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/smallworld/small' took 0.118
+[2018.12.01-21.51.09:772][ 32]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.118
+[2018.12.01-21.52.21:046][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.52.21:111][311]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-21.52.21:125][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-21.52.21:125][311]PIE: New page: PIE session: small (Dec 1, 2018, 5:52:21 AM)
+[2018.12.01-21.52.21:125][311]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.01-21.52.21:132][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006482s)
+[2018.12.01-21.52.21:133][311]LogAIModule: Creating AISystem for world small
+[2018.12.01-21.52.21:133][311]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.12.01-21.52.21:133][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.007637s)
+[2018.12.01-21.52.21:166][311]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-21.52.21:189][311]LogInit: FAudioDevice initialized.
+[2018.12.01-21.52.21:223][311]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.01-21.52.21:226][311]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.01-13.52.21
+[2018.12.01-21.52.21:226][311]LogWorld: Bringing up level for play took: 0.001539
+[2018.12.01-21.52.21:241][311]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.297
+[2018.12.01-21.52.22:079][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.52.31:745][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.52.34:062][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.52.34:095][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-21.52.34:123][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.52.34:177][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.01-21.52.47:515][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.53.08:502][140]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.08:511][140]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.08:525][141]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-21.53.08:525][141]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-21.53.08:525][141]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-21.53.08:525][141]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-21.53.09:372][192]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-21.53.09:392][193]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-21.53.09:491][199]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-21.53.09:762][215]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.12.01-21.53.09:762][215]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.01-21.53.09:762][215]MaterialEditorStats: Texture samplers: 5/16
+[2018.12.01-21.53.09:762][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.12.01-21.53.12:482][378]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.12:491][378]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.12:504][379]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-21.53.12:504][379]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-21.53.12:504][379]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-21.53.12:504][379]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-21.53.12:735][393]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-21.53.12:767][395]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-21.53.12:880][402]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-21.53.13:123][416]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.12.01-21.53.13:123][416]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.01-21.53.13:123][416]MaterialEditorStats: Texture samplers: 5/16
+[2018.12.01-21.53.13:123][416]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.12.01-21.53.14:355][490]LogMaterialEditor: Applying material PP_celshader
+[2018.12.01-21.53.15:068][490]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.15:096][490]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-21.53.15:096][490]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-21.53.15:096][490]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-21.53.15:096][490]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-21.53.15:122][490]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.15:137][490]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.15:176][490]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.12.01-21.53.15:365][500]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.01-21.53.15:413][503]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-21.53.15:496][508]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-21.53.15:650][517]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-21.53.17:221][611]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.12.01-21.53.17:221][611]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.01-21.53.17:221][611]MaterialEditorStats: Texture samplers: 5/16
+[2018.12.01-21.53.17:221][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.12.01-21.53.18:140][666]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2018.12.01-21.53.18:183][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-21.53.18:889][707]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (flowergirl-U)
+[2018.12.01-21.53.20:921][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.53.21:020][829]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.01-21.53.21:033][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-21.53.21:033][829]PIE: New page: PIE session: small (Dec 1, 2018, 5:53:21 AM)
+[2018.12.01-21.53.21:033][829]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.01-21.53.21:039][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006098s)
+[2018.12.01-21.53.21:041][829]LogAIModule: Creating AISystem for world small
+[2018.12.01-21.53.21:041][829]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2018.12.01-21.53.21:041][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.007980s)
+[2018.12.01-21.53.21:075][829]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-21.53.21:098][829]LogInit: FAudioDevice initialized.
+[2018.12.01-21.53.21:133][829]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.01-21.53.21:136][829]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.01-13.53.21
+[2018.12.01-21.53.21:136][829]LogWorld: Bringing up level for play took: 0.001603
+[2018.12.01-21.53.21:154][829]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.211
+[2018.12.01-21.53.22:017][878]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.01-21.53.26:299][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.53.26:336][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-21.53.26:364][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-21.53.26:416][136]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.01-21.53.27:075][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-21.53.30:028][349]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.30:037][349]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.30:055][351]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-21.53.30:055][351]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-21.53.30:055][351]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-21.53.30:055][351]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-21.53.30:276][364]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-21.53.30:326][367]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-21.53.30:425][373]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-21.53.30:648][386]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.12.01-21.53.30:649][386]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.01-21.53.30:649][386]MaterialEditorStats: Texture samplers: 5/16
+[2018.12.01-21.53.30:649][386]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.12.01-21.53.32:070][471]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.32:095][473]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-21.53.32:095][473]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-21.53.32:095][473]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-21.53.32:095][473]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-21.53.32:150][476]LogMaterialEditor: Applying material PP_celshader
+[2018.12.01-21.53.32:945][476]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.01-21.53.32:945][476]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.01-21.53.32:945][476]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.01-21.53.32:960][476]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.32:986][476]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.01-21.53.32:986][476]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.01-21.53.32:986][476]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.01-21.53.32:986][476]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.01-21.53.33:009][476]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.33:023][476]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.01-21.53.33:063][476]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.12.01-21.53.33:211][483]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.01-21.53.33:286][487]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.01-21.53.33:435][496]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.01-21.53.33:520][501]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.01-21.53.33:624][507]LogMaterialEditor: Saving and Compiling material PP_celshader
+[2018.12.01-21.53.34:920][507]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/PP_celshaderEF3035E048FF6C88D4E1C1B525E0DC66.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Materials/PP_celshader.uasset'
+[2018.12.01-21.53.34:941][507]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.12.01-21.53.34:941][507]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.01-21.53.34:941][507]MaterialEditorStats: Texture samplers: 5/16
+[2018.12.01-21.53.34:941][507]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.12.01-21.53.40:260][725]LogSlate: Window 'Save Content' being destroyed
+[2018.12.01-21.53.40:561][725]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small2C0A17EC45A0E1FB6FFDF3878E20E44C.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small.umap'
+[2018.12.01-21.53.40:585][725]LogFileHelpers: Saving map 'small' took 0.286
+[2018.12.01-21.53.40:756][725]LogSlate: Window 'smolworld - Unreal Editor' being destroyed
+[2018.12.01-21.53.41:015][726]Cmd: QUIT_EDITOR
+[2018.12.01-21.53.41:353][726]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-21.53.41:370][726]LogExit: Preparing to exit.
