@@ -1,0 +1,889 @@
+﻿Log file open, 12/02/18 16:47:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: smolworld
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.315553
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.193s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.03-00.47.22:302][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-00.47.22:302][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-00.47.22:315][  0]LogHAL: Display: Platform has ~ 16 GB [17031376896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-00.47.22:315][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-00.47.22:315][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-00.47.22:316][  0]LogInit: Computer: TRASH
+[2018.12.03-00.47.22:316][  0]LogInit: User: Maria
+[2018.12.03-00.47.22:316][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-00.47.22:316][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.12.03-00.47.22:317][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.03-00.47.22:317][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-00.47.22:317][  0]LogMemory: Process Physical Memory: 100.21 MB used, 100.21 MB peak
+[2018.12.03-00.47.22:317][  0]LogMemory: Process Virtual Memory: 90.86 MB used, 90.86 MB peak
+[2018.12.03-00.47.22:317][  0]LogMemory: Physical Memory: 8316.36 MB used,  7926.03 MB free, 16242.39 MB total
+[2018.12.03-00.47.22:317][  0]LogMemory: Virtual Memory: 4630.68 MB used,  7926.03 MB free, 134217728.00 MB total
+[2018.12.03-00.47.22:358][  0]LogInit: Using OS detected language (en-US).
+[2018.12.03-00.47.22:358][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.03-00.47.22:360][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.03-00.47.22:840][  0]LogStreaming: Display: Took  0.482s to InitEngineTextLocalization.
+[2018.12.03-00.47.22:890][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-00.47.22:890][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-00.47.23:275][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-00.47.23:275][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-00.47.23:360][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.03-00.47.23:360][  0]LogD3D11RHI:       1979/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.03-00.47.23:373][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.03-00.47.23:373][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.03-00.47.23:375][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-00.47.23:375][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-00.47.23:375][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-00.47.23:408][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-00.47.23:408][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-00.47.23:409][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-00.47.23:409][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.03-00.47.23:409][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.03-00.47.23:410][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.03-00.47.23:410][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.03-00.47.23:410][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.03-00.47.23:410][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.03-00.47.23:410][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.03-00.47.23:410][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2018.12.03-00.47.23:471][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-00.47.23:492][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-00.47.23:494][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Intermediate/Shaders/WorkingDirectory/22288/).
+[2018.12.03-00.47.23:494][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maria/AppData/Local/Temp/UnrealShaderWorkingDir/36AC3C8E45F863F4E4AFF49750F24EAA/'.
+[2018.12.03-00.47.23:865][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-00.47.23:884][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-00.47.23:909][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-00.47.23:929][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-00.47.23:948][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-00.47.23:966][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-00.47.23:985][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-00.47.24:008][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-00.47.24:019][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:123][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-00.47.24:125][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-00.47.24:197][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-00.47.24:197][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-00.47.24:230][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-00.47.24:230][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-00.47.24:246][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-00.47.24:262][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-00.47.24:277][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-00.47.24:295][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-00.47.24:306][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-00.47.24:307][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-00.47.24:420][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-00.47.24:420][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-00.47.24:420][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-00.47.25:457][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-00.47.25:529][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-00.47.25:531][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.03-00.47.25:531][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-00.47.25:531][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-00.47.25:531][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-00.47.25:531][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-00.47.25:549][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-00.47.25:562][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-00.47.25:562][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-00.47.25:562][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-00.47.25:584][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-00.47.25:585][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-00.47.25:586][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-00.47.25:697][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.12.03-00.47.26:154][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-00.47.26:341][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-00.47.26:347][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-00.47.26:347][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-00.47.26:347][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-00.47.26:347][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-00.47.26:364][  0]LogNetVersion: smolworld 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2808104013)
+[2018.12.03-00.47.27:030][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.138087 seconds
+[2018.12.03-00.47.27:037][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.03-00.47.27:037][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.03-00.47.27:037][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-00.47.28:452][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-00.47.28:466][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-00.47.28:643][  0]SourceControl: Source control is disabled
+[2018.12.03-00.47.28:643][  0]SourceControl: Source control is disabled
+[2018.12.03-00.47.28:645][  0]SourceControl: Source control is disabled
+[2018.12.03-00.47.28:647][  0]SourceControl: Source control is disabled
+[2018.12.03-00.47.28:835][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-00.47.28:934][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-00.47.29:016][  0]LogEngine: Initializing Engine...
+[2018.12.03-00.47.29:017][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.03-00.47.29:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-00.47.29:018][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-00.47.29:019][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-00.47.29:019][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-00.47.29:295][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-00.47.29:322][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-00.47.29:372][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-00.47.29:444][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-00.47.29:444][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-00.47.29:493][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-00.47.29:500][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-00.47.29:532][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-00.47.29:555][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-00.47.29:606][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-00.47.29:755][  0]LocalizationService: Localization service is disabled
+[2018.12.03-00.47.30:116][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-00.47.30:116][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-00.47.30:116][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-00.47.30:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-00.47.30:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-00.47.30:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-00.47.30:116][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-00.47.30:156][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/' took 0.02s
+[2018.12.03-00.47.30:313][  0]SourceControl: Source control is disabled
+[2018.12.03-00.47.30:313][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-00.47.30:314][  0]LightingResults: New page: Lighting Build
+[2018.12.03-00.47.30:319][  0]MapCheck: New page: Map Check
+[2018.12.03-00.47.30:319][  0]LightingResults: New page: Lighting Build
+[2018.12.03-00.47.31:124][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.03-00.47.31:139][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-00.47.31:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-00.47.31:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136.397ms to complete.
+[2018.12.03-00.47.31:306][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.993
+[2018.12.03-00.47.31:453][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.47.31:464][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.47.31:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.47.31:487][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.47.31:502][  0]LogCollectionManager: Loaded 0 collections in 0.003750 seconds
+[2018.12.03-00.47.31:561][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Collections/' took 0.01s
+[2018.12.03-00.47.31:561][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/Developers/Maria/Collections/' took 0.01s
+[2018.12.03-00.47.31:561][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/Collections/' took 0.01s
+[2018.12.03-00.47.31:561][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.03-00.47.31:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2572 classes and 603 folders.
+[2018.12.03-00.47.31:593][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.03-00.47.31:725][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-00.47.31:741][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.03-00.47.31:789][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-00.47.31:793][  0]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-00.47.31:808][  0]LogSlate: Took 0.001132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-00.47.31:924][  0]LogRenderer: Reallocating scene render targets to support 812x456 Format 9 NumSamples 1 (Frame:1).
+[2018.12.03-00.47.32:161][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-00.47.32:161][  0]LogLoad: (Engine Initialization) Total time: 12.86 seconds
+[2018.12.03-00.47.32:161][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-00.47.32:171][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-00.47.32:194][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.12.03-00.47.32:231][  0]LogSlate: Took 0.001120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-00.47.32:252][  1]LogAssetRegistry: Asset discovery search completed in 6.5770 seconds
+[2018.12.03-00.47.32:254][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-00.47.32:254][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2018.12.03-00.47.33:196][ 75]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-00.47.37:838][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-00.47.38:177][611]LogAIModule: Creating AISystem for world small
+[2018.12.03-00.47.38:188][611]LogAssetEditorManager: Opening Asset editor for World /Game/smallworld/small.small
+[2018.12.03-00.47.38:218][611]Cmd: MAP LOAD FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-00.47.38:218][611]LightingResults: New page: Lighting Build
+[2018.12.03-00.47.38:219][611]LoadErrors: New page: Loading map: small.umap
+[2018.12.03-00.47.38:220][611]MapCheck: New page: Map Check
+[2018.12.03-00.47.38:220][611]LightingResults: New page: Lighting Build
+[2018.12.03-00.47.38:263][611]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-00.47.38:311][611]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-00.47.38:460][611]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 148.847ms to complete.
+[2018.12.03-00.47.38:461][611]LogFileHelpers: Loading map 'small' took 0.244
+[2018.12.03-00.47.41:737][966]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-00.47.41:754][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-00.47.41:767][966]PIE: New page: PIE session: small (Dec 2, 2018, 8:47:41 AM)
+[2018.12.03-00.47.41:767][966]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.03-00.47.41:776][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008906s)
+[2018.12.03-00.47.41:777][966]LogAIModule: Creating AISystem for world small
+[2018.12.03-00.47.41:777][966]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.12.03-00.47.41:777][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009922s)
+[2018.12.03-00.47.41:814][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-00.47.41:838][966]LogInit: FAudioDevice initialized.
+[2018.12.03-00.47.41:885][966]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-00.47.41:888][966]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.02-16.47.41
+[2018.12.03-00.47.41:888][966]LogWorld: Bringing up level for play took: 0.001876
+[2018.12.03-00.47.41:914][966]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.03-00.47.41:918][966]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.146
+[2018.12.03-00.47.42:857][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-00.47.42:857][ 60]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-00.47.53:773][296]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-00.47.53:774][296]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-00.48.01:270][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.48.01:306][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-00.48.01:336][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-00.48.01:382][151]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.12.03-00.48.02:752][283]Cmd: SELECT NONE
+[2018.12.03-00.48.03:984][424]Cmd: SELECT NONE
+[2018.12.03-00.48.11:479][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-00.48.38:128][987]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.03-00.48.56:028][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-00.48.56:115][ 92]LogAssetEditorManager: Opening Asset editor for Material /Game/smallworld/Materials/PP_celshader.PP_celshader
+[2018.12.03-00.48.56:119][ 92]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.03-00.48.56:549][ 92]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.03-00.48.56:562][ 92]LogMaterial: Display: Missing cached shader map for material PP_celshader, compiling. 
+[2018.12.03-00.48.56:587][ 92]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.03-00.48.56:587][ 92]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.03-00.48.56:587][ 92]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.03-00.48.56:587][ 92]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.03-00.48.56:632][ 92]LogSlate: Took 0.001262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-00.48.57:610][132]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.03-00.48.57:701][136]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.03-00.48.57:830][142]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-00.48.58:136][158]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2018.12.03-00.48.58:136][158]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.03-00.48.58:136][158]MaterialEditorStats: Texture samplers: 5/16
+[2018.12.03-00.48.58:136][158]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2018.12.03-00.48.58:348][171]LogSlate: Took 0.001349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.03-00.49.02:129][424]LogSlate: Window 'PP_celshader' being destroyed
+[2018.12.03-00.49.05:085][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-00.53.46:122][432]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.03-00.57.58:035][625]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_Auto12E81148E469680A08648A3A77416A446.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/small_Auto1.umap'
+[2018.12.03-00.57.58:042][625]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/smallworld/small' took 0.142
+[2018.12.03-00.57.58:042][625]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.142
+[2018.12.03-01.17.07:694][397]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.17.07:711][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.17.07:712][397]PIE: New page: PIE session: small (Dec 2, 2018, 9:17:07 AM)
+[2018.12.03-01.17.07:712][397]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.03-01.17.07:719][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006768s)
+[2018.12.03-01.17.07:720][397]LogAIModule: Creating AISystem for world small
+[2018.12.03-01.17.07:720][397]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2018.12.03-01.17.07:720][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008226s)
+[2018.12.03-01.17.07:754][397]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-01.17.07:780][397]LogInit: FAudioDevice initialized.
+[2018.12.03-01.17.07:811][397]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.17.07:814][397]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.02-17.17.07
+[2018.12.03-01.17.07:814][397]LogWorld: Bringing up level for play took: 0.001917
+[2018.12.03-01.17.07:829][397]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.235
+[2018.12.03-01.17.23:155][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.17.23:190][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.17.23:219][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.17.23:254][317]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.12.03-01.17.23:321][321]Cmd: SELECT NONE
+[2018.12.03-01.17.25:056][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.17.25:188][433]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.17.25:201][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.17.25:202][433]PIE: New page: PIE session: small (Dec 2, 2018, 9:17:25 AM)
+[2018.12.03-01.17.25:202][433]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.03-01.17.25:208][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006591s)
+[2018.12.03-01.17.25:209][433]LogAIModule: Creating AISystem for world small
+[2018.12.03-01.17.25:209][433]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2018.12.03-01.17.25:209][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.007804s)
+[2018.12.03-01.17.25:243][433]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-01.17.25:265][433]LogInit: FAudioDevice initialized.
+[2018.12.03-01.17.25:301][433]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.17.25:303][433]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.02-17.17.25
+[2018.12.03-01.17.25:303][433]LogWorld: Bringing up level for play took: 0.001641
+[2018.12.03-01.17.25:318][433]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.746
+[2018.12.03-01.17.26:877][525]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.17.26:877][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.17.53:798][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.17.53:837][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.17.53:863][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.17.53:907][140]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.03-01.17.59:557][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.18.12:359][237]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.03-01.18.16:980][513]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.03-01.18.16:994][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-01.18.16:994][513]PIE: New page: PIE session: small (Dec 2, 2018, 9:18:16 AM)
+[2018.12.03-01.18.16:994][513]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.03-01.18.17:001][513]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006429s)
+[2018.12.03-01.18.17:001][513]LogAIModule: Creating AISystem for world small
+[2018.12.03-01.18.17:001][513]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2018.12.03-01.18.17:002][513]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.007510s)
+[2018.12.03-01.18.17:036][513]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-01.18.17:057][513]LogInit: FAudioDevice initialized.
+[2018.12.03-01.18.17:089][513]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.03-01.18.17:092][513]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.02-17.18.17
+[2018.12.03-01.18.17:092][513]LogWorld: Bringing up level for play took: 0.001631
+[2018.12.03-01.18.17:106][513]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 1.042
+[2018.12.03-01.18.17:901][559]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.17:902][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.27:952][162]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.27:952][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.43:886][118]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.43:886][118]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.45:303][203]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.45:303][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.46:286][262]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.46:286][262]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.46:289][262]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1152.801 Y=-816.167 Z=206.229] for [FirstPersonProjectile_C]
+[2018.12.03-01.18.47:370][327]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.47:370][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.48:169][375]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.48:170][375]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.48:903][419]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.48:903][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.49:619][462]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.49:620][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.50:237][499]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.50:237][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.50:354][506]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.50:355][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.50:486][514]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.50:486][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.50:621][522]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.50:621][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.50:752][530]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.03-01.18.50:753][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.50:905][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.51:070][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.51:220][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.51:354][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.51:521][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.51:704][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.51:854][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.52:004][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.52:155][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.52:303][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.52:470][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.52:620][642]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.52:770][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.52:937][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.53:104][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.53:271][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.53:405][689]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.53:587][700]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.53:771][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.53:920][720]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.54:104][731]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.54:270][741]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.54:437][751]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.54:620][762]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.54:804][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.54:987][784]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.55:204][797]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.55:404][809]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.55:571][819]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.55:755][830]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.55:923][840]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.56:092][850]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.56:276][861]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.56:476][873]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.56:660][884]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.56:843][895]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.57:027][906]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.57:226][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.57:593][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.18.57:792][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.19.10:446][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.19.13:079][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.03-01.19.15:162][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.19.15:198][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-01.19.15:225][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-01.19.15:281][996]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.03-01.19.47:393][520]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_Auto2ED20162E41394CBE841851AEF238D9F4.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/small_Auto2.umap'
+[2018.12.03-01.19.47:398][520]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/smallworld/small' took 0.125
+[2018.12.03-01.19.47:398][520]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.125
+[2018.12.03-01.25.42:771][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-01.25.43:958][664]LogSlate: Window 'Save Content' being destroyed
+[2018.12.03-01.25.44:292][664]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small777846994B898A96F63D9A8A08A0D2B4.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small.umap'
+[2018.12.03-01.25.44:323][664]LogFileHelpers: Saving map 'small' took 0.321
+[2018.12.03-01.25.44:477][664]LogSlate: Window 'smolworld - Unreal Editor' being destroyed
+[2018.12.03-01.25.44:665][665]Cmd: QUIT_EDITOR
+[2018.12.03-01.25.45:472][665]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.03-01.25.45:484][665]LogExit: Preparing to exit.
+[2018.12.03-01.25.45:963][665]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/', and we were unable to create a new request.
+[2018.12.03-01.25.45:986][665]LogExit: Editor shut down
+[2018.12.03-01.25.45:986][665]LogExit: Transaction tracking system shut down
+[2018.12.03-01.25.46:536][665]LogExit: Object subsystem successfully closed.
+[2018.12.03-01.25.46:565][665]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.03-01.25.46:566][665]LogD3D11RHI: Shutdown
+[2018.12.03-01.25.46:566][665]LogD3D11RHI: CleanupD3DDevice
+[2018.12.03-01.25.46:570][665]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.03-01.25.46:619][665]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.12.03-01.25.46:620][665]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.12.03-01.25.46:620][665]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.03-01.25.46:620][665]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.03-01.25.46:620][665]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.03-01.25.46:621][665]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.03-01.25.46:621][665]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.03-01.25.46:621][665]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.03-01.25.46:622][665]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.03-01.25.46:623][665]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.03-01.25.46:624][665]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.03-01.25.47:257][665]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.03-01.25.47:258][665]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.03-01.25.47:258][665]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.03-01.25.47:258][665]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.03-01.25.47:311][665]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.03-01.25.47:312][665]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.03-01.25.47:363][665]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.03-01.25.47:364][665]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.03-01.25.47:368][665]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.03-01.25.47:369][665]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.03-01.25.47:370][665]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.03-01.25.47:471][665]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.03-01.25.47:571][665]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.03-01.25.47:571][665]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.03-01.25.47:571][665]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.03-01.25.47:571][665]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.03-01.25.47:571][665]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.03-01.25.47:571][665]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.03-01.25.47:571][665]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.03-01.25.47:573][665]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.03-01.25.47:573][665]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.03-01.25.47:573][665]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.03-01.25.47:573][665]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.03-01.25.47:573][665]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.03-01.25.47:574][665]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.03-01.25.47:574][665]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.03-01.25.47:574][665]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.03-01.25.47:574][665]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.03-01.25.47:575][665]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.03-01.25.47:575][665]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.03-01.25.47:577][665]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.03-01.25.47:582][665]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.03-01.25.47:583][665]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.03-01.25.47:585][665]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.03-01.25.47:682][665]LogDerivedDataCache: Shutdown
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.03-01.25.47:682][665]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.03-01.25.47:683][665]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.03-01.25.47:691][665]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.03-01.25.47:691][665]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.03-01.25.47:697][665]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.03-01.25.47:697][665]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.03-01.25.47:733][665]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.03-01.25.47:734][665]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.03-01.25.47:734][665]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.03-01.25.47:734][665]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.03-01.25.47:734][665]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.03-01.25.47:734][665]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.03-01.25.47:734][665]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.03-01.25.47:734][665]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.03-01.25.47:735][665]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.03-01.25.47:748][665]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.03-01.25.47:748][665]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.03-01.25.47:748][665]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDDDB6ADA-4FB3-38A2-3591-1CB93D724905%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=a6256bd0408472d2b653c782d73510f2%7C5bb51a77674340abbe5c8d267c700432%7C40b7f538-e62e-4616-9190-600d7c7a6793&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.03-01.25.47:762][665]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.03-01.25.47:763][665]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.03-01.25.47:763][665]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.03-01.25.47:763][665]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.03-01.25.47:763][665]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.03-01.25.47:763][665]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.03-01.25.47:763][665]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.03-01.25.47:763][665]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.03-01.25.47:764][665]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.03-01.25.47:764][665]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.03-01.25.47:764][665]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.03-01.25.47:764][665]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.03-01.25.47:765][665]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.03-01.25.47:765][665]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.03-01.25.47:765][665]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.03-01.25.47:765][665]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.03-01.25.47:765][665]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.03-01.25.47:765][665]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.03-01.25.47:765][665]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.03-01.25.47:766][665]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.03-01.25.47:775][665]LogExit: Exiting.
+[2018.12.03-01.25.47:802][665]Log file closed, 12/02/18 17:25:47
