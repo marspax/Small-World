@@ -1,0 +1,483 @@
+﻿Log file open, 12/04/18 23:16:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: smolworld
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.321933
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.188s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.05-07.16.10:957][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-07.16.10:957][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.05-07.16.10:977][  0]LogHAL: Display: Platform has ~ 16 GB [17031376896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.05-07.16.10:977][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.05-07.16.10:977][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.05-07.16.10:977][  0]LogInit: Computer: TRASH
+[2018.12.05-07.16.10:977][  0]LogInit: User: Maria
+[2018.12.05-07.16.10:977][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.05-07.16.10:977][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2018.12.05-07.16.10:978][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.05-07.16.10:978][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.05-07.16.10:978][  0]LogMemory: Process Physical Memory: 101.05 MB used, 101.05 MB peak
+[2018.12.05-07.16.10:978][  0]LogMemory: Process Virtual Memory: 92.06 MB used, 92.06 MB peak
+[2018.12.05-07.16.10:978][  0]LogMemory: Physical Memory: 6728.75 MB used,  9513.63 MB free, 16242.39 MB total
+[2018.12.05-07.16.10:978][  0]LogMemory: Virtual Memory: 4631.75 MB used,  9513.63 MB free, 134217728.00 MB total
+[2018.12.05-07.16.11:029][  0]LogInit: Using OS detected language (en-US).
+[2018.12.05-07.16.11:029][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.05-07.16.11:030][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.05-07.16.11:473][  0]LogStreaming: Display: Took  0.444s to InitEngineTextLocalization.
+[2018.12.05-07.16.11:541][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.05-07.16.11:541][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.05-07.16.12:092][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.05-07.16.12:092][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.05-07.16.12:183][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.05-07.16.12:183][  0]LogD3D11RHI:       1979/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.05-07.16.12:196][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.05-07.16.12:196][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.05-07.16.12:198][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.05-07.16.12:198][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.05-07.16.12:198][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.05-07.16.12:231][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.05-07.16.12:231][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.05-07.16.12:231][  0]LogWindows: EnumDisplayDevices:
+[2018.12.05-07.16.12:232][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.05-07.16.12:232][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2018.12.05-07.16.12:232][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.05-07.16.12:233][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.05-07.16.12:233][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.05-07.16.12:233][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.05-07.16.12:233][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.05-07.16.12:233][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2018.12.05-07.16.12:286][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.05-07.16.12:312][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.05-07.16.12:313][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Intermediate/Shaders/WorkingDirectory/16520/).
+[2018.12.05-07.16.12:314][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maria/AppData/Local/Temp/UnrealShaderWorkingDir/70F32D7D41468EE85F831CA88FF73208/'.
+[2018.12.05-07.16.12:747][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.05-07.16.12:766][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.05-07.16.12:785][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.05-07.16.12:807][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.05-07.16.12:826][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.05-07.16.12:844][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.05-07.16.12:861][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.05-07.16.12:879][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.05-07.16.12:889][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:992][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.05-07.16.12:994][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.05-07.16.13:066][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.05-07.16.13:066][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.05-07.16.13:095][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.05-07.16.13:095][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.05-07.16.13:111][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.05-07.16.13:126][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.05-07.16.13:142][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.05-07.16.13:159][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.05-07.16.13:171][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.05-07.16.13:172][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.05-07.16.13:283][  0]LogXGEController: Cleaning working directory: C:/Users/Maria/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.05-07.16.13:284][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.05-07.16.13:284][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.05-07.16.13:284][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.05-07.16.14:265][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.05-07.16.14:659][  0]LogDerivedDataCache: Loaded boot cache 0.39s 71MB C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.05-07.16.14:659][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.05-07.16.14:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.05-07.16.14:660][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.05-07.16.14:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.05-07.16.14:660][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.05-07.16.14:680][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.05-07.16.14:692][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.05-07.16.14:692][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.05-07.16.14:692][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.05-07.16.14:713][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.05-07.16.14:714][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.05-07.16.14:715][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.05-07.16.14:824][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.12.05-07.16.15:213][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.05-07.16.15:394][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.05-07.16.15:404][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.05-07.16.15:404][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.05-07.16.15:404][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.05-07.16.15:404][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.05-07.16.15:438][  0]LogNetVersion: smolworld 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2808104013)
+[2018.12.05-07.16.16:065][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.130428 seconds
+[2018.12.05-07.16.16:072][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.05-07.16.16:072][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.05-07.16.16:072][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.05-07.16.17:804][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.05-07.16.17:817][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.05-07.16.18:040][  0]SourceControl: Source control is disabled
+[2018.12.05-07.16.18:040][  0]SourceControl: Source control is disabled
+[2018.12.05-07.16.18:045][  0]SourceControl: Source control is disabled
+[2018.12.05-07.16.18:047][  0]SourceControl: Source control is disabled
+[2018.12.05-07.16.18:269][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.05-07.16.18:826][  0]LogOcInput: OculusInput pre-init called
+[2018.12.05-07.16.18:908][  0]LogEngine: Initializing Engine...
+[2018.12.05-07.16.18:909][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.05-07.16.18:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.05-07.16.18:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-07.16.18:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.05-07.16.18:911][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-07.16.19:151][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.05-07.16.19:178][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.05-07.16.19:206][  0]LogInit: XAudio2 using 'DX-24E150A11 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-07.16.19:223][  0]LogInit: FAudioDevice initialized.
+[2018.12.05-07.16.19:223][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.05-07.16.19:295][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.05-07.16.19:306][  0]LogInit: Texture streaming: Enabled
+[2018.12.05-07.16.19:338][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.05-07.16.19:339][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={545A49BB-4A2D-E094-5663-7DAE3F05DA67}
+[2018.12.05-07.16.19:359][  0]LogInit: Transaction tracking system initialized
+[2018.12.05-07.16.19:406][  0]BlueprintLog: New page: Editor Load
+[2018.12.05-07.16.19:545][  0]LocalizationService: Localization service is disabled
+[2018.12.05-07.16.19:895][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.05-07.16.19:895][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.05-07.16.19:895][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.05-07.16.19:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.05-07.16.19:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.05-07.16.19:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.05-07.16.19:896][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.05-07.16.19:986][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/' took 0.02s
+[2018.12.05-07.16.20:124][  0]SourceControl: Source control is disabled
+[2018.12.05-07.16.20:251][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-07.16.20:255][  0]LogSlate: Took 0.000969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.05-07.16.27:905][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.12.05-07.16.27:906][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-07.16.27:934][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-07.16.29:977][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.12.05-07.16.29:978][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-07.16.30:034][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-07.16.30:036][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-07.16.30:038][  0]LightingResults: New page: Lighting Build
+[2018.12.05-07.16.30:049][  0]MapCheck: New page: Map Check
+[2018.12.05-07.16.30:049][  0]LightingResults: New page: Lighting Build
+[2018.12.05-07.16.31:218][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.05-07.16.31:266][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-07.16.31:317][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-07.16.31:615][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 296.487ms to complete.
+[2018.12.05-07.16.31:615][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.580
+[2018.12.05-07.16.31:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-07.16.31:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-07.16.31:798][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-07.16.31:813][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-07.16.31:827][  0]LogCollectionManager: Loaded 0 collections in 0.005008 seconds
+[2018.12.05-07.16.31:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Collections/' took 0.01s
+[2018.12.05-07.16.31:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/Developers/Maria/Collections/' took 0.01s
+[2018.12.05-07.16.31:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/Collections/' took 0.01s
+[2018.12.05-07.16.31:881][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.05-07.16.31:892][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2572 classes and 603 folders.
+[2018.12.05-07.16.31:903][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.05-07.16.32:040][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.05-07.16.32:048][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.05-07.16.32:064][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.05-07.16.32:071][  0]LogSlate: Took 0.001214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.05-07.16.32:135][  0]LogRenderer: Reallocating scene render targets to support 812x456 Format 9 NumSamples 1 (Frame:1).
+[2018.12.05-07.16.32:278][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.05-07.16.32:278][  0]LogLoad: (Engine Initialization) Total time: 24.00 seconds
+[2018.12.05-07.16.32:278][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.05-07.16.32:313][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.12.05-07.16.32:346][  0]LogSlate: Took 0.001915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-07.16.32:367][  1]LogAssetRegistry: Asset discovery search completed in 17.5652 seconds
+[2018.12.05-07.16.32:368][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.05-07.16.32:369][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2018.12.05-07.16.33:629][ 53]LogSlate: Took 0.000830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.05-07.16.40:887][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-07.16.42:183][115]LogAIModule: Creating AISystem for world small
+[2018.12.05-07.16.42:186][115]LogMaterial: Warning: Material /Game/smallworld/Meshes/shade_clothing.shade_clothing needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.12.05-07.16.42:192][115]LogMaterial: Display: Missing cached shader map for material shade_clothing, compiling. 
+[2018.12.05-07.16.42:281][115]MapCheck: Warning: shade_clothing Material /Game/smallworld/Meshes/shade_clothing.shade_clothing was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.12.05-07.16.42:298][115]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.12.05-07.16.42:298][115]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.12.05-07.16.42:298][115]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.05-07.16.42:298][115]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.05-07.16.42:305][115]LogMaterial: Warning: Material /Game/smallworld/Meshes/bulb_shade.bulb_shade needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.12.05-07.16.42:310][115]LogMaterial: Display: Missing cached shader map for material bulb_shade, compiling. 
+[2018.12.05-07.16.42:438][115]MapCheck: Warning: bulb_shade Material /Game/smallworld/Meshes/bulb_shade.bulb_shade was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.12.05-07.16.42:449][115]LogAssetEditorManager: Opening Asset editor for World /Game/smallworld/small.small
+[2018.12.05-07.16.42:478][115]Cmd: MAP LOAD FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.05-07.16.42:478][115]LightingResults: New page: Lighting Build
+[2018.12.05-07.16.42:479][115]LoadErrors: New page: Loading map: small.umap
+[2018.12.05-07.16.42:479][115]MapCheck: New page: Map Check
+[2018.12.05-07.16.42:480][115]LightingResults: New page: Lighting Build
+[2018.12.05-07.16.42:538][115]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.05-07.16.42:589][115]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.05-07.16.42:761][115]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 172.175ms to complete.
+[2018.12.05-07.16.42:763][115]LogFileHelpers: Loading map 'small' took 0.286
+[2018.12.05-07.16.45:344][216]LogAssetEditorManager: Opening Asset editor for NodeMappingContainer /Game/smallworld/Meshes/animation/Flowergirl-mapped.Flowergirl-mapped
+[2018.12.05-07.16.57:677][281]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.12.05-07.16.57:677][281]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.12.05-07.16.57:677][281]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.05-07.16.57:678][281]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.05-07.16.57:678][281]LogStats: FPlatformStackWalk::StackWalkAndDump -  9.955 s
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: 
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: Ensure condition failed: 0 [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\AssetThumbnail.cpp] [Line: 900]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: Thumbnail info for '/Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage' is still referenced by '3' other objects
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: Stack: 
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe472b71f6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe46ff0c92 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe4700b356 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d0820b9 UE4Editor-UnrealEd.dll!FAssetThumbnailPool::ReleaseResources() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\assetthumbnail.cpp:900]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d005078 UE4Editor-UnrealEd.dll!FAssetThumbnailPool::~FAssetThumbnailPool() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\assetthumbnail.cpp:837]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d00d99f UE4Editor-UnrealEd.dll!FAssetThumbnailPool::`vector deleting destructor'() []
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe14911938 UE4Editor-ContentBrowser.dll!SAssetView::~SAssetView() [d:\build\++ue4\sync\engine\source\editor\contentbrowser\private\sassetview.cpp:106]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ad7496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae0255 UE4Editor-SlateCore.dll!SVerticalBox::~SVerticalBox() []
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe468e755a UE4Editor-Slate.dll!SBox::~SBox() []
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe469b06a6 UE4Editor-Slate.dll!FWidgetBlock::`scalar deleting destructor'() []
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe469a4caf UE4Editor-Slate.dll!SMultiBlockDragHandle::~SMultiBlockDragHandle() []
+[2018.12.05-07.16.57:678][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ad738e UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae0215 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ad7496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae01c5 UE4Editor-SlateCore.dll!SHorizontalBox::~SHorizontalBox() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ad7496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae0255 UE4Editor-SlateCore.dll!SVerticalBox::~SVerticalBox() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe46b0fec6 UE4Editor-Slate.dll!TIndirectArray<SScrollBox::FSlot,FDefaultAllocator>::~TIndirectArray<SScrollBox::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe46b4511a UE4Editor-Slate.dll!SharedPointerInternals::TIntrusiveReferenceController<SScrollPanel>::DestroyObject() [d:\build\++ue4\sync\engine\source\runtime\core\public\templates\sharedpointerinternals.h:145]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ad738e UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae0215 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ad7496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae01c5 UE4Editor-SlateCore.dll!SHorizontalBox::~SHorizontalBox() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe468e755a UE4Editor-Slate.dll!SBox::~SBox() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45adf39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45ae00e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.05-07.16.57:679][281]LogOutputDevice: Error: [Callstack] 0x00007ffe46968e0c UE4Editor-Slate.dll!FSlateApplication::SetUserFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2872]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe46916ccc UE4Editor-Slate.dll!FSlateApplication::ForEachUser() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4673]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe4696497d UE4Editor-Slate.dll!FSlateApplication::SetAllUserFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2962]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe45b8a99d UE4Editor-SlateCore.dll!SWindow::OnIsActiveChanged() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swindow.cpp:1554]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe4694ab22 UE4Editor-Slate.dll!FSlateApplication::ProcessWindowActivatedEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6724]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe4693e954 UE4Editor-Slate.dll!FSlateApplication::OnWindowActivationChanged() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6687]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe7f2bca73 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1902]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe7f2b0270 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2182]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe7f2bf6ea UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1109]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe7f2ac209 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:732]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe93e66d41 USER32.dll!UnknownFunction []
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe93e66a1c USER32.dll!UnknownFunction []
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe93e704d3 USER32.dll!UnknownFunction []
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe950fdc14 ntdll.dll!UnknownFunction []
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe92281504 win32u.dll!UnknownFunction []
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe7f2b7553 UE4Editor-ApplicationCore.dll!FWindowsWindow::Initialize() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowswindow.cpp:271]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe7f2b83e0 UE4Editor-ApplicationCore.dll!FWindowsApplication::InitializeWindow() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:294]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe46931fe7 UE4Editor-Slate.dll!FSlateApplication::MakeWindow() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2047]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe468f8502 UE4Editor-Slate.dll!FSlateApplication::AddWindowAsNativeChild() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2255]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe468f6f10 UE4Editor-Slate.dll!FSlateApplication::AddModalWindow() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2132]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d391156 UE4Editor-UnrealEd.dll!UEditorEngine::EditorAddModalWindow() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:4044]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d318de9 UE4Editor-UnrealEd.dll!OpenMsgDlgInt() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\dialogs\dialogs.cpp:360]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe4705a1fe UE4Editor-Core.dll!FMessageDialog::Open() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\messagedialog.cpp:129]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f0c85bd UE4Editor-Engine.dll!USkeleton::BuildLinkup() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\skeleton.cpp:474]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f0eecc5 UE4Editor-Engine.dll!USkeleton::GetMeshLinkupIndex() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\skeleton.cpp:421]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f1fff8d UE4Editor-Engine.dll!FBoneContainer::RemapFromSkelMesh() [d:\build\++ue4\sync\engine\source\runtime\engine\private\bonecontainer.cpp:403]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f1f2557 UE4Editor-Engine.dll!FBoneContainer::Initialize() [d:\build\++ue4\sync\engine\source\runtime\engine\private\bonecontainer.cpp:110]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f0133a1 UE4Editor-Engine.dll!FAnimInstanceProxy::RecalcRequiredBones() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\animinstanceproxy.cpp:1044]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f013c1b UE4Editor-Engine.dll!UAnimInstance::RecalcRequiredBones() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\animinstance.cpp:1089]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f0037a0 UE4Editor-Engine.dll!UAnimInstance::InitializeAnimation() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\animinstance.cpp:201]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d063ded UE4Editor-UnrealEd.dll!UDebugSkelMeshComponent::InitAnim() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\animation\debugskelmeshcomponent.cpp:290]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe1f3adf72 UE4Editor-Engine.dll!USkeletalMeshComponent::SetSkeletalMesh() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\skeletalmeshcomponent.cpp:2485]
+[2018.12.05-07.16.57:680][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3dcb72cc UE4Editor-UnrealEd.dll!FAnimationSequenceThumbnailScene::SetAnimation() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\thumbnailhelpers.cpp:591]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3dc46a01 UE4Editor-UnrealEd.dll!UAnimSequenceThumbnailRenderer::Draw() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\thumbnailrendering\animsequencethumbnailrenderer.cpp:26]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d929e49 UE4Editor-UnrealEd.dll!ThumbnailTools::RenderThumbnail() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\objecttools.cpp:3855]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d099e9a UE4Editor-UnrealEd.dll!FAssetThumbnailPool::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\assetthumbnail.cpp:1016]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3cfce612 UE4Editor-UnrealEd.dll!FTickableEditorObject::TickObjects() [d:\build\++ue4\sync\engine\source\editor\unrealed\public\tickableeditorobject.h:45]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3d3c64b2 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1482]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe3dcbf666 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:403]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ff625e25cbd UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3495]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ff625e35b3c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ff625e35bba UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ff625e43dac UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ff625e45aaa UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe94a43034 KERNEL32.DLL!UnknownFunction []
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: [Callstack] 0x00007ffe950d1471 ntdll.dll!UnknownFunction []
+[2018.12.05-07.16.57:681][281]LogOutputDevice: Error: 
+[2018.12.05-07.16.57:691][281]LogStats:                SubmitErrorReport -  0.000 s
+[2018.12.05-07.16.58:559][281]LogStats:                    SendNewReport -  0.869 s
+[2018.12.05-07.16.58:559][281]LogStats:             FDebug::EnsureFailed - 10.838 s
+[2018.12.05-07.16.58:801][281]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.05-07.16.59:710][281]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.05-07.16.59:904][281]LogSlate: Window 'Message' being destroyed
+[2018.12.05-07.16.59:912][281]LoadErrors: Error: The Skeleton  SK_Mannequin_Arms_Skeleton is missing bones that SkeletalMesh  SK_Mannequin_Arms needs. They will be added now. Please save the Skeleton!
