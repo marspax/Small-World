@@ -3675,3 +3675,552 @@ LogInit: Object subsystem initialized
 [2018.12.05-19.34.48:212][382]LogFileHelpers: Saving map 'small' took 0.358
 [2018.12.05-19.34.48:262][382]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/mushroomtop015C4173491D6143B30C7CBA79895EBF.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/mushroomtop.uasset'
 [2018.12.05-19.34.48:314][382]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/mushroombottomC5D4340A4C1CADAE83446EA96B776B97.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/mushroombottom.uasset'
+[2018.12.05-19.35.05:921][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.35.07:376][751]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-19.35.07:393][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.35.07:393][751]PIE: New page: PIE session: small (Dec 5, 2018, 3:35:07 AM)
+[2018.12.05-19.35.07:393][751]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.05-19.35.07:401][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007668s)
+[2018.12.05-19.35.07:402][751]LogAIModule: Creating AISystem for world small
+[2018.12.05-19.35.07:402][751]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2018.12.05-19.35.07:402][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008602s)
+[2018.12.05-19.35.07:449][751]LogInit: XAudio2 using 'Headphones (Tracks Air Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-19.35.07:462][751]LogInit: FAudioDevice initialized.
+[2018.12.05-19.35.07:494][751]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.05-19.35.07:497][751]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.05-11.35.07
+[2018.12.05-19.35.07:497][751]LogWorld: Bringing up level for play took: 0.002021
+[2018.12.05-19.35.07:511][751]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.377
+[2018.12.05-19.35.07:785][766]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.35.11:221][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.35.22:195][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.35.22:234][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.35.22:262][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.35.22:343][631]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2018.12.05-19.35.27:326][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.35.30:841][134]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/smallworld/Materials/PP_celshader_Inst.PP_celshader_Inst
+[2018.12.05-19.35.44:818][958]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.35.57:263][703]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.35.58:738][787]TextureStreamingBuild: Display: Compiling optional shaders took 0.003 seconds.
+[2018.12.05-19.35.58:794][787]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/PP_celshader_Inst40B9AEE0476EC461D663E5897F6258AD.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Materials/PP_celshader_Inst.uasset'
+[2018.12.05-19.36.01:291][927]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-19.36.01:307][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.36.01:307][927]PIE: New page: PIE session: small (Dec 5, 2018, 3:36:01 AM)
+[2018.12.05-19.36.01:308][927]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.05-19.36.01:316][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008219s)
+[2018.12.05-19.36.01:317][927]LogAIModule: Creating AISystem for world small
+[2018.12.05-19.36.01:317][927]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.12.05-19.36.01:317][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009291s)
+[2018.12.05-19.36.01:359][927]LogInit: XAudio2 using 'Headphones (Tracks Air Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-19.36.01:370][927]LogInit: FAudioDevice initialized.
+[2018.12.05-19.36.01:402][927]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.05-19.36.01:405][927]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.05-11.36.01
+[2018.12.05-19.36.01:405][927]LogWorld: Bringing up level for play took: 0.001895
+[2018.12.05-19.36.01:420][927]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.285
+[2018.12.05-19.36.01:822][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.36.21:104][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.36.21:141][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.36.21:170][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.36.21:239][107]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2018.12.05-19.36.23:723][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.36.23:867][257]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/smallworld/Materials/PP_celshader_Inst.PP_celshader_Inst
+[2018.12.05-19.36.28:741][538]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.36.30:455][639]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.36.33:851][841]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.36.51:093][872]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.05-19.36.52:461][950]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.12.05-19.36.52:510][950]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/PP_celshader_InstC67FAC254C0A29AEBA66BBBB27781ECC.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Materials/PP_celshader_Inst.uasset'
+[2018.12.05-19.36.54:731][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-19.36.54:746][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.36.54:746][ 80]PIE: New page: PIE session: small (Dec 5, 2018, 3:36:54 AM)
+[2018.12.05-19.36.54:746][ 80]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.05-19.36.54:753][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007340s)
+[2018.12.05-19.36.54:753][ 80]LogAIModule: Creating AISystem for world small
+[2018.12.05-19.36.54:754][ 80]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2018.12.05-19.36.54:754][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008525s)
+[2018.12.05-19.36.54:798][ 80]LogInit: XAudio2 using 'Headphones (Tracks Air Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-19.36.54:810][ 80]LogInit: FAudioDevice initialized.
+[2018.12.05-19.36.54:844][ 80]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.05-19.36.54:846][ 80]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.05-11.36.54
+[2018.12.05-19.36.54:847][ 80]LogWorld: Bringing up level for play took: 0.002038
+[2018.12.05-19.36.54:861][ 80]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.273
+[2018.12.05-19.36.55:264][103]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.37.08:980][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.37.09:016][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.37.09:044][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.37.09:090][928]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2018.12.05-19.37.10:810][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.37.12:990][157]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/smallworld/Meshes/smallmushroom.smallmushroom
+[2018.12.05-19.37.21:991][660]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/smallmushroom162EEE7D468E36CDDD6D9C9AC480A47D.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/smallmushroom.uasset'
+[2018.12.05-19.37.24:066][773]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-19.37.24:082][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.37.24:083][773]PIE: New page: PIE session: small (Dec 5, 2018, 3:37:24 AM)
+[2018.12.05-19.37.24:083][773]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.05-19.37.24:090][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007302s)
+[2018.12.05-19.37.24:091][773]LogAIModule: Creating AISystem for world small
+[2018.12.05-19.37.24:091][773]LogPlayLevel: PIE: World Init took: (0.000790s)
+[2018.12.05-19.37.24:091][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008232s)
+[2018.12.05-19.37.24:134][773]LogInit: XAudio2 using 'Headphones (Tracks Air Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-19.37.24:146][773]LogInit: FAudioDevice initialized.
+[2018.12.05-19.37.24:180][773]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.05-19.37.24:183][773]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.05-11.37.24
+[2018.12.05-19.37.24:184][773]LogWorld: Bringing up level for play took: 0.001889
+[2018.12.05-19.37.24:198][773]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 1.063
+[2018.12.05-19.37.24:785][807]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.37.45:151][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.37.45:191][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.37.45:220][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.37.45:302][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2018.12.05-19.37.46:641][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.37.46:751][112]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/smallworld/Meshes/smallmushroom.smallmushroom
+[2018.12.05-19.37.50:513][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.37.53:215][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.37.58:259][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.38.00:090][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.38.49:459][756]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.38.52:865][956]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.38.54:617][ 55]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/smallmushroomB2CED5CE45D32D3D770A89BC087E91BA.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/smallmushroom.uasset'
+[2018.12.05-19.38.55:406][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.38.56:348][147]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2018.12.05-19.38.57:830][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.38.57:879][237]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-19.38.57:894][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.38.57:894][237]PIE: New page: PIE session: small (Dec 5, 2018, 3:38:57 AM)
+[2018.12.05-19.38.57:894][237]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.05-19.38.57:902][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007843s)
+[2018.12.05-19.38.57:903][237]LogAIModule: Creating AISystem for world small
+[2018.12.05-19.38.57:903][237]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2018.12.05-19.38.57:903][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008843s)
+[2018.12.05-19.38.57:946][237]LogInit: XAudio2 using 'Headphones (Tracks Air Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-19.38.57:958][237]LogInit: FAudioDevice initialized.
+[2018.12.05-19.38.57:987][237]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.05-19.38.57:990][237]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.05-11.38.57
+[2018.12.05-19.38.57:990][237]LogWorld: Bringing up level for play took: 0.001896
+[2018.12.05-19.38.58:004][237]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.869
+[2018.12.05-19.38.58:374][258]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.39.41:655][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.39.41:691][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.39.41:718][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.39.41:769][855]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2018.12.05-19.39.43:153][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.39.57:338][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.40.02:443][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.40.19:387][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.05-19.40.30:149][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.40.30:214][749]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-19.40.30:234][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.40.30:234][749]PIE: New page: PIE session: small (Dec 5, 2018, 3:40:30 AM)
+[2018.12.05-19.40.30:234][749]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.05-19.40.30:242][749]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007801s)
+[2018.12.05-19.40.30:243][749]LogAIModule: Creating AISystem for world small
+[2018.12.05-19.40.30:243][749]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2018.12.05-19.40.30:243][749]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008775s)
+[2018.12.05-19.40.30:293][749]LogInit: XAudio2 using 'Headphones (Tracks Air Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-19.40.30:305][749]LogInit: FAudioDevice initialized.
+[2018.12.05-19.40.30:339][749]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.05-19.40.30:341][749]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.05-11.40.30
+[2018.12.05-19.40.30:342][749]LogWorld: Bringing up level for play took: 0.001942
+[2018.12.05-19.40.30:356][749]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.779
+[2018.12.05-19.40.30:778][773]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.40.49:998][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.40.50:039][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.40.50:066][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.40.50:131][927]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2018.12.05-19.40.55:868][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.40.55:933][269]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.05-19.40.55:949][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.05-19.40.55:949][269]PIE: New page: PIE session: small (Dec 5, 2018, 3:40:55 AM)
+[2018.12.05-19.40.55:950][269]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.05-19.40.55:957][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007681s)
+[2018.12.05-19.40.55:958][269]LogAIModule: Creating AISystem for world small
+[2018.12.05-19.40.55:958][269]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.12.05-19.40.55:958][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008703s)
+[2018.12.05-19.40.56:002][269]LogInit: XAudio2 using 'Headphones (Tracks Air Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.05-19.40.56:014][269]LogInit: FAudioDevice initialized.
+[2018.12.05-19.40.56:048][269]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.05-19.40.56:050][269]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.05-11.40.56
+[2018.12.05-19.40.56:051][269]LogWorld: Bringing up level for play took: 0.001981
+[2018.12.05-19.40.56:064][269]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.93
+[2018.12.05-19.40.56:370][286]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.05-19.41.10:672][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.41.10:712][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.05-19.41.10:739][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.05-19.41.10:822][144]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2018.12.05-19.41.12:402][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.41.12:554][240]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 128X128)
+[2018.12.05-19.41.12:657][240]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small985E1B3840328978CF50E1B71660BBF2.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small.umap'
+[2018.12.05-19.41.12:688][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/smallworld/small_BuiltData" FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small_BuiltData.uasset" SILENT=true
+[2018.12.05-19.41.12:732][240]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_BuiltData40EB8187448D0695538570AB869A53BD.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small_BuiltData.uasset'
+[2018.12.05-19.43.51:875][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.05-19.44.05:118][206]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maria\Downloads\mp_met\met_up.tga)
+[2018.12.05-19.44.05:133][206]LogTexture: Display: Building textures: met_up (AutoDXT, 512X512)
+[2018.12.05-19.44.05:203][206]LogAssetTools: Warning: Failed to import 'C:\Users\Maria\Downloads\mp_met\mp_met.shader'. Unknown extension 'shader'.
+[2018.12.05-19.44.05:209][206]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maria\Downloads\mp_met\met_bk.tga)
+[2018.12.05-19.44.05:218][206]LogTexture: Display: Building textures: met_bk (AutoDXT, 512X512)
+[2018.12.05-19.44.05:272][206]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maria\Downloads\mp_met\met_dn.tga)
+[2018.12.05-19.44.05:281][206]LogTexture: Display: Building textures: met_dn (AutoDXT, 512X512)
+[2018.12.05-19.44.05:309][206]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maria\Downloads\mp_met\met_ft.tga)
+[2018.12.05-19.44.05:318][206]LogTexture: Display: Building textures: met_ft (AutoDXT, 512X512)
+[2018.12.05-19.44.05:365][206]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maria\Downloads\mp_met\met_lf.tga)
+[2018.12.05-19.44.05:374][206]LogTexture: Display: Building textures: met_lf (AutoDXT, 512X512)
+[2018.12.05-19.44.05:435][206]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Maria\Downloads\mp_met\met_rt.tga)
+[2018.12.05-19.44.05:443][206]LogTexture: Display: Building textures: met_rt (AutoDXT, 512X512)
+[2018.12.05-19.44.08:422][321]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/smallworld/Meshes/possibleskyboxes/met_up.met_up
+[2018.12.05-19.44.08:451][321]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.12.05-19.44.10:303][423]LogSlate: Window 'met_up*' being destroyed
+[2018.12.05-19.46.32:471][715]LogAssetTools: Warning: Failed to import 'C:\Users\Maria\Downloads\mp_morningdew\mp_morningdew.shader'. Unknown extension 'shader'.
+[2018.12.05-19.51.12:965][835]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/smallworld/small' took 0.024
+[2018.12.05-19.51.12:968][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/possibleskyboxes/met_up] ([1] browsable assets)...
+[2018.12.05-19.51.12:977][835]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/smallworld/Meshes/possibleskyboxes/met_up.met_up]
+[2018.12.05-19.51.12:977][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/possibleskyboxes/met_up]
+[2018.12.05-19.51.12:987][835]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_up_Auto7D932E83D4DCDA24868CE00995BF9AFC6.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/possibleskyboxes/met_up_Auto7.uasset'
+[2018.12.05-19.51.12:991][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/possibleskyboxes/met_bk] ([1] browsable assets)...
+[2018.12.05-19.51.12:999][835]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/smallworld/Meshes/possibleskyboxes/met_bk.met_bk]
+[2018.12.05-19.51.12:999][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/possibleskyboxes/met_bk]
+[2018.12.05-19.51.13:008][835]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_bk_Auto77635177F4097AED7CB97A687C27E6D31.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/possibleskyboxes/met_bk_Auto7.uasset'
+[2018.12.05-19.51.13:012][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/possibleskyboxes/met_dn] ([1] browsable assets)...
+[2018.12.05-19.51.13:019][835]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/smallworld/Meshes/possibleskyboxes/met_dn.met_dn]
+[2018.12.05-19.51.13:019][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/possibleskyboxes/met_dn]
+[2018.12.05-19.51.13:026][835]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_dn_Auto793F7C09E471F942EF5D5C5A63F63DDA4.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/possibleskyboxes/met_dn_Auto7.uasset'
+[2018.12.05-19.51.13:030][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/possibleskyboxes/met_ft] ([1] browsable assets)...
+[2018.12.05-19.51.13:038][835]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/smallworld/Meshes/possibleskyboxes/met_ft.met_ft]
+[2018.12.05-19.51.13:039][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/possibleskyboxes/met_ft]
+[2018.12.05-19.51.13:047][835]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_ft_Auto7EC36470E47223B907056FD831B7F78BC.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/possibleskyboxes/met_ft_Auto7.uasset'
+[2018.12.05-19.51.13:051][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/possibleskyboxes/met_lf] ([1] browsable assets)...
+[2018.12.05-19.51.13:058][835]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/smallworld/Meshes/possibleskyboxes/met_lf.met_lf]
+[2018.12.05-19.51.13:058][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/possibleskyboxes/met_lf]
+[2018.12.05-19.51.13:068][835]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_lf_Auto79F10E0FC414FF087C0A011B441BAD04E.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/possibleskyboxes/met_lf_Auto7.uasset'
+[2018.12.05-19.51.13:072][835]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/possibleskyboxes/met_rt] ([1] browsable assets)...
+[2018.12.05-19.51.13:079][835]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/smallworld/Meshes/possibleskyboxes/met_rt.met_rt]
+[2018.12.05-19.51.13:080][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/possibleskyboxes/met_rt]
+[2018.12.05-19.51.13:087][835]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_rt_Auto7B37A2165431CC12448BBB19261098792.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/possibleskyboxes/met_rt_Auto7.uasset'
+[2018.12.05-19.51.13:090][835]LogFileHelpers: Auto-saving content packages took 0.124
+[2018.12.05-20.00.09:803][602]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_up8D75229C4508606635ACC5B8CC91DA82.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/possibleskyboxes/met_up.uasset'
+[2018.12.05-20.00.09:840][602]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_bkD30AA38F43590B7D609F9198B78A15B3.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/possibleskyboxes/met_bk.uasset'
+[2018.12.05-20.00.09:866][602]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_dn740919A3437872FA8830678D9DEBF287.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/possibleskyboxes/met_dn.uasset'
+[2018.12.05-20.00.09:898][602]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_ft4617301F44C6050FCCA3AEA9AFDF13A5.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/possibleskyboxes/met_ft.uasset'
+[2018.12.05-20.00.09:933][602]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_lf5AADD7A64BA2EE1DEB106280F050C155.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/possibleskyboxes/met_lf.uasset'
+[2018.12.05-20.00.09:962][602]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/met_rtF31CAEFA40551BF652C8DB8447D5BE87.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/possibleskyboxes/met_rt.uasset'
+[2018.12.05-20.00.35:474][126]LogSlate: Window 'smolworld - Unreal Editor' being destroyed
+[2018.12.05-20.00.35:721][127]Cmd: QUIT_EDITOR
+[2018.12.05-20.00.36:041][127]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.05-20.00.36:061][127]LogExit: Preparing to exit.
+[2018.12.05-20.00.36:523][127]LogExit: Editor shut down
+[2018.12.05-20.00.36:524][127]LogExit: Transaction tracking system shut down
+[2018.12.05-20.00.37:241][127]LogExit: Object subsystem successfully closed.
+[2018.12.05-20.00.37:327][127]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.05-20.00.37:350][127]LogD3D11RHI: Shutdown
+[2018.12.05-20.00.37:350][127]LogD3D11RHI: CleanupD3DDevice
+[2018.12.05-20.00.37:371][127]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.05-20.00.37:423][127]LogModuleManager: Shutting down and abandoning module TextureEditor (624)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module DistCurveEditor (622)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module Cascade (620)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (614)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.05-20.00.37:424][127]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.05-20.00.37:428][127]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.05-20.00.37:428][127]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.05-20.00.37:428][127]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.05-20.00.37:429][127]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.05-20.00.37:429][127]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.05-20.00.37:429][127]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.05-20.00.37:429][127]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.05-20.00.37:430][127]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.05-20.00.37:431][127]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.05-20.00.37:431][127]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.05-20.00.37:432][127]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.05-20.00.37:433][127]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.05-20.00.37:433][127]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.05-20.00.37:433][127]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.05-20.00.37:433][127]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.05-20.00.37:434][127]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.05-20.00.37:435][127]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.05-20.00.37:436][127]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.05-20.00.37:437][127]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.05-20.00.37:438][127]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.05-20.00.37:438][127]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.05-20.00.37:438][127]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.05-20.00.37:439][127]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.05-20.00.37:439][127]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.05-20.00.37:439][127]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.05-20.00.37:676][127]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.05-20.00.37:676][127]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.05-20.00.37:676][127]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.05-20.00.37:676][127]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.05-20.00.37:676][127]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.05-20.00.37:679][127]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.05-20.00.37:679][127]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.05-20.00.37:680][127]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.05-20.00.37:680][127]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.05-20.00.37:680][127]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.05-20.00.37:680][127]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.05-20.00.37:681][127]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.05-20.00.37:681][127]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.05-20.00.37:681][127]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.05-20.00.37:681][127]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.05-20.00.37:681][127]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.05-20.00.37:682][127]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.05-20.00.37:682][127]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.05-20.00.37:683][127]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.05-20.00.37:683][127]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.05-20.00.37:684][127]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.05-20.00.37:684][127]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.05-20.00.37:738][127]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.05-20.00.37:739][127]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.05-20.00.37:739][127]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.05-20.00.37:741][127]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.05-20.00.37:741][127]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.05-20.00.37:741][127]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.05-20.00.37:741][127]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.05-20.00.37:742][127]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.05-20.00.37:742][127]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.05-20.00.37:743][127]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.05-20.00.37:744][127]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.05-20.00.37:744][127]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.05-20.00.37:748][127]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.05-20.00.37:748][127]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.05-20.00.37:748][127]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.05-20.00.37:749][127]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.05-20.00.37:749][127]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.05-20.00.37:749][127]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.05-20.00.37:749][127]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.05-20.00.37:749][127]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.05-20.00.37:750][127]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.05-20.00.37:751][127]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.05-20.00.37:751][127]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.05-20.00.37:751][127]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.05-20.00.37:751][127]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.05-20.00.37:799][127]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.05-20.00.37:800][127]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.05-20.00.37:801][127]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.05-20.00.37:803][127]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.05-20.00.37:803][127]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.05-20.00.37:803][127]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.05-20.00.37:803][127]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.05-20.00.37:808][127]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.05-20.00.37:809][127]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.05-20.00.37:809][127]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.05-20.00.37:809][127]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.05-20.00.37:809][127]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.05-20.00.37:809][127]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.05-20.00.37:809][127]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.05-20.00.37:811][127]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.05-20.00.37:812][127]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.05-20.00.37:813][127]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.05-20.00.37:814][127]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.05-20.00.37:815][127]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.05-20.00.37:815][127]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.05-20.00.37:815][127]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.05-20.00.37:815][127]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.05-20.00.37:815][127]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.05-20.00.37:815][127]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.05-20.00.37:817][127]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.05-20.00.37:817][127]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.05-20.00.37:817][127]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.05-20.00.37:817][127]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.05-20.00.37:818][127]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.05-20.00.37:818][127]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.05-20.00.37:818][127]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.05-20.00.37:818][127]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.05-20.00.37:818][127]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.05-20.00.37:818][127]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.05-20.00.37:920][127]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.05-20.00.38:022][127]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.05-20.00.38:022][127]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.05-20.00.38:023][127]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.05-20.00.38:023][127]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.05-20.00.38:023][127]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.05-20.00.38:023][127]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.05-20.00.38:024][127]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.05-20.00.38:026][127]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.05-20.00.38:026][127]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.05-20.00.38:027][127]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.05-20.00.38:027][127]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.05-20.00.38:028][127]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.05-20.00.38:031][127]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.05-20.00.38:032][127]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.05-20.00.38:032][127]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.05-20.00.38:032][127]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.05-20.00.38:032][127]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.05-20.00.38:033][127]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.05-20.00.38:035][127]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.05-20.00.38:041][127]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.05-20.00.38:041][127]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.05-20.00.38:041][127]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.05-20.00.38:042][127]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.05-20.00.38:042][127]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.05-20.00.38:042][127]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.05-20.00.38:042][127]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.05-20.00.38:043][127]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.05-20.00.38:043][127]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.05-20.00.38:043][127]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.05-20.00.38:045][127]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.05-20.00.38:045][127]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.05-20.00.38:046][127]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.05-20.00.38:046][127]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.05-20.00.38:047][127]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.05-20.00.38:048][127]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.05-20.00.38:050][127]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.05-20.00.38:050][127]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.05-20.00.38:051][127]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.05-20.00.38:051][127]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.05-20.00.38:054][127]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.05-20.00.38:055][127]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.05-20.00.38:056][127]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.05-20.00.38:056][127]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.05-20.00.38:056][127]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.05-20.00.38:057][127]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.05-20.00.38:057][127]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.05-20.00.38:057][127]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.05-20.00.38:058][127]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.05-20.00.38:058][127]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.05-20.00.38:149][127]LogDerivedDataCache: Shutdown
+[2018.12.05-20.00.38:149][127]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.05-20.00.38:150][127]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.05-20.00.38:150][127]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.05-20.00.38:151][127]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.05-20.00.38:151][127]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.05-20.00.38:151][127]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.05-20.00.38:151][127]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.05-20.00.38:152][127]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.05-20.00.38:153][127]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.05-20.00.38:162][127]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.05-20.00.38:162][127]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.05-20.00.38:168][127]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.05-20.00.38:168][127]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.05-20.00.38:213][127]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.05-20.00.38:213][127]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.05-20.00.38:213][127]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.05-20.00.38:213][127]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.05-20.00.38:214][127]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.05-20.00.38:215][127]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.05-20.00.38:215][127]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.05-20.00.38:216][127]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.05-20.00.38:216][127]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.05-20.00.38:216][127]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.05-20.00.38:217][127]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.05-20.00.38:218][127]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.05-20.00.38:227][127]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.05-20.00.38:228][127]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.05-20.00.38:228][127]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77F76D85-4D19-06D6-6A0A-EF9AE49D2D1F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=a6256bd0408472d2b653c782d73510f2%7C5bb51a77674340abbe5c8d267c700432%7C40b7f538-e62e-4616-9190-600d7c7a6793&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.05-20.00.38:258][127]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.05-20.00.38:261][127]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.05-20.00.38:262][127]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.05-20.00.38:262][127]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.05-20.00.38:262][127]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.05-20.00.38:264][127]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.05-20.00.38:264][127]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.05-20.00.38:266][127]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.05-20.00.38:266][127]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.05-20.00.38:266][127]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.05-20.00.38:266][127]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.05-20.00.38:269][127]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.05-20.00.38:269][127]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.05-20.00.38:269][127]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.05-20.00.38:270][127]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.05-20.00.38:280][127]LogExit: Exiting.
+[2018.12.05-20.00.38:305][127]Log file closed, 12/05/18 12:00:38
