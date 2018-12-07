@@ -1,0 +1,1489 @@
+﻿Log file open, 12/06/18 22:16:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: smolworld
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.312836
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.164s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.07-06.16.46:526][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.07-06.16.46:526][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.07-06.16.46:552][  0]LogHAL: Display: Platform has ~ 16 GB [17031376896 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.07-06.16.46:552][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.07-06.16.46:552][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.07-06.16.46:553][  0]LogInit: Computer: TRASH
+[2018.12.07-06.16.46:553][  0]LogInit: User: Maria
+[2018.12.07-06.16.46:553][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.07-06.16.46:553][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2018.12.07-06.16.46:554][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.07-06.16.46:554][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.07-06.16.46:554][  0]LogMemory: Process Physical Memory: 100.52 MB used, 100.52 MB peak
+[2018.12.07-06.16.46:554][  0]LogMemory: Process Virtual Memory: 89.41 MB used, 89.41 MB peak
+[2018.12.07-06.16.46:554][  0]LogMemory: Physical Memory: 7087.58 MB used,  9154.81 MB free, 16242.39 MB total
+[2018.12.07-06.16.46:554][  0]LogMemory: Virtual Memory: 4629.12 MB used,  9154.81 MB free, 134217728.00 MB total
+[2018.12.07-06.16.46:590][  0]LogInit: Using OS detected language (en-US).
+[2018.12.07-06.16.46:590][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.07-06.16.46:592][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.07-06.16.46:996][  0]LogStreaming: Display: Took  0.406s to InitEngineTextLocalization.
+[2018.12.07-06.16.47:056][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.07-06.16.47:056][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.07-06.16.47:438][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.07-06.16.47:438][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.07-06.16.47:517][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.12.07-06.16.47:517][  0]LogD3D11RHI:       1979/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.12.07-06.16.47:530][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.07-06.16.47:530][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.07-06.16.47:532][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.07-06.16.47:532][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.07-06.16.47:532][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.07-06.16.47:565][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.07-06.16.47:565][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.12.07-06.16.47:565][  0]LogWindows: EnumDisplayDevices:
+[2018.12.07-06.16.47:566][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.12.07-06.16.47:566][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.07-06.16.47:567][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.07-06.16.47:567][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.07-06.16.47:567][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.12.07-06.16.47:567][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.07-06.16.47:567][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.07-06.16.47:567][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2018.12.07-06.16.47:620][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.07-06.16.47:643][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.07-06.16.47:644][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Intermediate/Shaders/WorkingDirectory/6272/).
+[2018.12.07-06.16.47:644][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maria/AppData/Local/Temp/UnrealShaderWorkingDir/10E26C2E4ECD44D9148E9D965FCC86E8/'.
+[2018.12.07-06.16.47:987][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.07-06.16.48:004][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.07-06.16.48:022][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.07-06.16.48:038][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.07-06.16.48:055][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.07-06.16.48:072][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.07-06.16.48:089][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.07-06.16.48:107][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.07-06.16.48:116][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:207][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-06.16.48:209][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.07-06.16.48:276][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.07-06.16.48:276][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.07-06.16.48:321][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.07-06.16.48:321][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.07-06.16.48:336][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.07-06.16.48:351][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.07-06.16.48:367][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.07-06.16.48:383][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.07-06.16.48:393][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.07-06.16.48:393][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.07-06.16.48:486][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.07-06.16.48:486][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.07-06.16.48:486][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.07-06.16.49:376][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.07-06.16.49:433][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.07-06.16.49:434][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.07-06.16.49:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.07-06.16.49:434][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.07-06.16.49:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.07-06.16.49:434][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.07-06.16.49:449][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.07-06.16.49:462][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maria/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.07-06.16.49:462][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.07-06.16.49:462][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.07-06.16.49:482][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.07-06.16.49:484][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.07-06.16.49:485][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.07-06.16.49:587][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
+[2018.12.07-06.16.49:949][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.07-06.16.50:109][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.07-06.16.50:115][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.07-06.16.50:115][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.07-06.16.50:115][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.07-06.16.50:115][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.07-06.16.50:137][  0]LogNetVersion: smolworld 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2808104013)
+[2018.12.07-06.16.50:749][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.129357 seconds
+[2018.12.07-06.16.50:756][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.07-06.16.50:756][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.07-06.16.50:756][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.07-06.16.52:020][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.07-06.16.52:034][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.07-06.16.52:195][  0]SourceControl: Source control is disabled
+[2018.12.07-06.16.52:195][  0]SourceControl: Source control is disabled
+[2018.12.07-06.16.52:197][  0]SourceControl: Source control is disabled
+[2018.12.07-06.16.52:198][  0]SourceControl: Source control is disabled
+[2018.12.07-06.16.52:396][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.07-06.16.52:462][  0]LogOcInput: OculusInput pre-init called
+[2018.12.07-06.16.52:536][  0]LogEngine: Initializing Engine...
+[2018.12.07-06.16.52:537][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.07-06.16.52:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.07-06.16.52:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.07-06.16.52:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.07-06.16.52:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.07-06.16.52:781][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.07-06.16.52:804][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.07-06.16.52:817][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.16.52:846][  0]LogInit: FAudioDevice initialized.
+[2018.12.07-06.16.52:846][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.07-06.16.52:902][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Maria/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.07-06.16.52:911][  0]LogInit: Texture streaming: Enabled
+[2018.12.07-06.16.52:940][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.07-06.16.52:960][  0]LogInit: Transaction tracking system initialized
+[2018.12.07-06.16.53:000][  0]BlueprintLog: New page: Editor Load
+[2018.12.07-06.16.53:121][  0]LocalizationService: Localization service is disabled
+[2018.12.07-06.16.53:460][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.07-06.16.53:460][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.07-06.16.53:460][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.07-06.16.53:460][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.07-06.16.53:460][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.07-06.16.53:460][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.07-06.16.53:460][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.07-06.16.53:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/' took 0.02s
+[2018.12.07-06.16.53:638][  0]SourceControl: Source control is disabled
+[2018.12.07-06.16.53:638][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-06.16.53:641][  0]LightingResults: New page: Lighting Build
+[2018.12.07-06.16.53:646][  0]MapCheck: New page: Map Check
+[2018.12.07-06.16.53:646][  0]LightingResults: New page: Lighting Build
+[2018.12.07-06.16.54:462][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.12.07-06.16.54:475][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.07-06.16.54:502][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-06.16.54:624][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.009ms to complete.
+[2018.12.07-06.16.54:624][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.986
+[2018.12.07-06.16.54:803][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.16.54:822][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.16.54:835][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.16.54:845][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.16.54:864][  0]LogCollectionManager: Loaded 0 collections in 0.003801 seconds
+[2018.12.07-06.16.54:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Collections/' took 0.01s
+[2018.12.07-06.16.54:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/Developers/Maria/Collections/' took 0.01s
+[2018.12.07-06.16.54:928][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/Collections/' took 0.01s
+[2018.12.07-06.16.54:928][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.07-06.16.54:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 2572 classes and 603 folders.
+[2018.12.07-06.16.54:968][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.07-06.16.55:184][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.07-06.16.55:199][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.07-06.16.55:247][  0]LogSlate: Took 0.000583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.07-06.16.55:252][  0]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.07-06.16.55:267][  0]LogSlate: Took 0.002767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.07-06.16.55:401][  0]LogRenderer: Reallocating scene render targets to support 812x456 Format 9 NumSamples 1 (Frame:1).
+[2018.12.07-06.16.55:554][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.07-06.16.55:554][  0]LogLoad: (Engine Initialization) Total time: 11.75 seconds
+[2018.12.07-06.16.55:554][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.07-06.16.55:565][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.07-06.16.55:591][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.12.07-06.16.55:818][  2]LogAssetRegistry: Asset discovery search completed in 6.2532 seconds
+[2018.12.07-06.16.55:820][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.07-06.16.55:820][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2018.12.07-06.16.55:837][  2]LogSlate: Took 0.001510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.07-06.16.58:772][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.17.00:124][499]LogSlate: Took 0.000330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.07-06.17.00:805][499]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.17.00:808][499]LogMaterial: Warning: Material /Game/smallworld/Meshes/bulb_shade.bulb_shade needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2018.12.07-06.17.00:815][499]LogMaterial: Display: Missing cached shader map for material bulb_shade, compiling. 
+[2018.12.07-06.17.00:929][499]MapCheck: Warning: bulb_shade Material /Game/smallworld/Meshes/bulb_shade.bulb_shade was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2018.12.07-06.17.00:937][499]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.12.07-06.17.00:937][499]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.12.07-06.17.00:937][499]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.12.07-06.17.00:937][499]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.07-06.17.00:954][499]LogAssetEditorManager: Opening Asset editor for World /Game/smallworld/small.small
+[2018.12.07-06.17.00:986][499]Cmd: MAP LOAD FILE="../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/small.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-06.17.00:987][499]LightingResults: New page: Lighting Build
+[2018.12.07-06.17.00:988][499]LoadErrors: New page: Loading map: small.umap
+[2018.12.07-06.17.00:989][499]MapCheck: New page: Map Check
+[2018.12.07-06.17.00:990][499]LightingResults: New page: Lighting Build
+[2018.12.07-06.17.01:057][499]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.07-06.17.01:109][499]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-06.17.01:282][499]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 171.798ms to complete.
+[2018.12.07-06.17.01:283][499]LogFileHelpers: Loading map 'small' took 0.299
+[2018.12.07-06.17.03:189][639]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.17.03:203][639]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.17.05:494][839]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.07-06.17.06:001][882]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.12.07-06.17.07:970][ 55]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.07-06.17.08:144][ 71]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.07-06.17.12:259][423]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.17.12:393][434]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.07-06.17.18:190][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.19.10:801][548]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Maria\Documents\BFA project\treestumphome.fbx)
+[2018.12.07-06.19.10:842][548]LogFbx: Loading FBX Scene from C:\Users\Maria\Documents\BFA project\treestumphome.fbx
+[2018.12.07-06.19.10:856][548]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.07-06.19.12:526][548]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.07-06.19.12:753][548]LogMaterial: Display: Missing cached shader map for material brown, compiling. 
+[2018.12.07-06.19.12:770][548]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.07-06.19.12:771][548]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-06.19.12:771][548]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-06.19.12:773][548]LogMaterial: Display: Missing cached shader map for material stem, compiling. 
+[2018.12.07-06.19.12:794][548]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.07-06.19.12:798][548]LogMaterial: Display: Missing cached shader map for material mushroom, compiling. 
+[2018.12.07-06.19.12:832][548]LogMaterial: Display: Missing cached shader map for material xtrabrown, compiling. 
+[2018.12.07-06.19.12:857][548]LogFbx: Warning: Triangulating static mesh Cylinder
+[2018.12.07-06.19.12:931][548]LogStaticMesh: Building static mesh treestumphome...
+[2018.12.07-06.19.12:945][548]LogStaticMesh: Built static mesh [0.02s] /Game/smallworld/Meshes/treestumphome.treestumphome
+[2018.12.07-06.19.12:962][548]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.07-06.19.14:109][602]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.07-06.19.15:196][673]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.19.15:207][673]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.19.16:791][767]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.12.07-06.19.16:945][776]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.07-06.19.19:307][917]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.07-06.19.19:837][949]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.07-06.19.20:330][978]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.07-06.19.30:892][843]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/smallworld/Meshes/treestumphome.treestumphome
+[2018.12.07-06.19.31:695][843]LogRenderer: Reallocating scene render targets to support 1144x708 Format 9 NumSamples 1 (Frame:1).
+[2018.12.07-06.19.36:317][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-06.19.44:274][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-06.19.59:285][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.20.00:108][268]LogSlate: Window 'treestumphome*' being destroyed
+[2018.12.07-06.20.05:502][676]LogAssetEditorManager: Opening Asset editor for Material /Game/smallworld/Meshes/mushroomtop.mushroomtop
+[2018.12.07-06.20.05:510][676]LogMaterial: Display: Missing cached shader map for material mushroomtop, compiling. 
+[2018.12.07-06.20.05:623][676]LogMaterial: Display: Missing cached shader map for material mushroomtop, compiling. 
+[2018.12.07-06.20.05:640][676]LogMaterial: Display: Missing cached shader map for material mushroomtop, compiling. 
+[2018.12.07-06.20.05:669][676]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.07-06.20.05:669][676]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.07-06.20.05:669][676]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.20.05:669][676]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.07-06.20.05:684][676]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.07-06.20.05:726][676]LogSlate: Took 0.001275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.07-06.20.05:927][677]LogSlate: Took 0.001208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.07-06.20.06:511][728]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.20.06:556][732]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.07-06.20.06:605][737]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.07-06.20.06:644][741]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.07-06.20.06:826][759]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.07-06.20.06:903][766]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.07-06.20.06:923][768]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.07-06.20.06:963][772]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-06.20.07:153][791]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.07-06.20.07:505][820]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.07-06.20.07:873][853]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.07-06.20.07:922][858]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.07-06.20.08:036][870]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.07-06.20.08:286][895]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.07-06.20.08:286][895]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.07-06.20.08:679][933]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.07-06.20.08:692][934]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.07-06.20.08:878][950]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-06.20.09:002][961]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.07-06.20.09:430][997]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.12.07-06.20.09:430][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.12.07-06.20.09:430][997]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.12.07-06.20.09:430][997]MaterialEditorStats: Texture samplers: 3/16
+[2018.12.07-06.20.12:304][104]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.20.13:002][104]LogMaterial: Display: Missing cached shader map for material mushroomtop, compiling. 
+[2018.12.07-06.20.13:052][104]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.07-06.20.13:052][104]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.07-06.20.13:052][104]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.20.13:052][104]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.07-06.20.13:090][104]LogMaterial: Display: Missing cached shader map for material mushroomtop, compiling. 
+[2018.12.07-06.20.13:116][104]LogMaterial: Display: Missing cached shader map for material mushroomtop, compiling. 
+[2018.12.07-06.20.13:186][104]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy mushroomtop, compiling. 
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-06.20.14:694][104]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-06.20.14:697][104]TextureStreamingBuild: Display: Compiling optional shaders took 1.522 seconds.
+[2018.12.07-06.20.21:511][599]LogAssetEditorManager: Opening Asset editor for Material /Game/smallworld/Meshes/mushroom.mushroom
+[2018.12.07-06.20.21:514][599]LogMaterial: Display: Missing cached shader map for material mushroom, compiling. 
+[2018.12.07-06.20.21:595][599]LogMaterial: Display: Missing cached shader map for material mushroom, compiling. 
+[2018.12.07-06.20.21:611][599]LogMaterial: Display: Missing cached shader map for material mushroom, compiling. 
+[2018.12.07-06.20.21:627][599]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.07-06.20.21:627][599]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.07-06.20.21:627][599]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.20.21:627][599]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.07-06.20.21:655][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.07-06.20.21:871][600]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.20.21:906][601]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.07-06.20.21:906][601]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.07-06.20.21:928][603]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.07-06.20.22:160][625]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.07-06.20.22:172][626]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.07-06.20.22:203][629]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.07-06.20.22:242][633]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-06.20.22:461][655]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.07-06.20.22:650][672]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.07-06.20.22:956][699]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.07-06.20.23:039][706]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.07-06.20.23:227][722]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.07-06.20.23:483][743]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.07-06.20.23:538][747]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.07-06.20.23:892][777]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.07-06.20.23:946][782]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.07-06.20.24:207][806]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-06.20.24:215][807]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.07-06.20.32:639][423]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/smallworld/Meshes/smallmushroom.smallmushroom
+[2018.12.07-06.20.37:668][875]LogAssetEditorManager: Opening Asset editor for Material /Game/smallworld/Meshes/mushroom.mushroom
+[2018.12.07-06.20.37:671][875]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.12.07-06.20.37:744][875]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.12.07-06.20.37:761][875]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.12.07-06.20.37:780][875]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.07-06.20.37:781][875]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.07-06.20.37:781][875]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.20.37:781][875]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.07-06.20.37:808][875]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.12.07-06.20.38:003][876]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.12.07-06.20.38:064][879]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.07-06.20.38:075][880]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.07-06.20.38:085][881]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.07-06.20.38:315][900]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.07-06.20.38:338][902]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.07-06.20.38:381][906]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.07-06.20.38:393][907]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-06.20.38:613][927]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.07-06.20.38:903][951]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.07-06.20.39:139][970]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.07-06.20.39:254][979]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.07-06.20.39:407][991]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.07-06.20.39:635][ 10]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.07-06.20.39:720][ 17]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.07-06.20.40:106][ 49]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.07-06.20.40:136][ 52]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.07-06.20.50:330][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.20.50:460][212]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/treestumphome46B0A9BA45A24143819C26BE051D4D45.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/treestumphome.uasset'
+[2018.12.07-06.20.56:512][822]LogActorFactory: Actor Factory created treestumphome
+[2018.12.07-06.20.57:448][930]LogActorFactory: Actor Factory created treestumphome
+[2018.12.07-06.21.11:606][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.21.22:829][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.21.28:880][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.21.41:448][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.21.48:411][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.21.48:461][829]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.21.48:475][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.21.48:491][829]PIE: New page: PIE session: small (Dec 6, 2018, 2:21:48 PM)
+[2018.12.07-06.21.48:491][829]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.21.48:499][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008084s)
+[2018.12.07-06.21.48:500][829]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.21.48:500][829]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2018.12.07-06.21.48:500][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009413s)
+[2018.12.07-06.21.48:538][829]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.21.48:562][829]LogInit: FAudioDevice initialized.
+[2018.12.07-06.21.48:608][829]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.21.48:614][829]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.21.48
+[2018.12.07-06.21.48:614][829]LogWorld: Bringing up level for play took: 0.002257
+[2018.12.07-06.21.48:637][829]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.12.07-06.21.48:641][829]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.578
+[2018.12.07-06.21.49:280][890]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.21.49:280][890]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.22.02:138][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.22.02:170][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.22.02:197][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.22.02:243][428]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.07-06.22.03:188][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (treestumphome)
+[2018.12.07-06.22.11:786][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.22.14:467][778]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.22.14:481][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.22.14:481][778]PIE: New page: PIE session: small (Dec 6, 2018, 2:22:14 PM)
+[2018.12.07-06.22.14:482][778]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.22.14:490][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007932s)
+[2018.12.07-06.22.14:490][778]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.22.14:490][778]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.12.07-06.22.14:491][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008872s)
+[2018.12.07-06.22.14:522][778]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.22.14:545][778]LogInit: FAudioDevice initialized.
+[2018.12.07-06.22.14:578][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.22.14:581][778]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.22.14
+[2018.12.07-06.22.14:581][778]LogWorld: Bringing up level for play took: 0.001880
+[2018.12.07-06.22.14:595][778]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.624
+[2018.12.07-06.22.15:493][880]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.22.15:493][880]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.22.37:596][510]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.22.37:597][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.22.58:630][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.22.58:665][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.22.58:692][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.22.58:740][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.07-06.23.16:520][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.23.16:586][116]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.23.16:601][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.23.16:601][116]PIE: New page: PIE session: small (Dec 6, 2018, 2:23:16 PM)
+[2018.12.07-06.23.16:601][116]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.23.16:609][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007862s)
+[2018.12.07-06.23.16:610][116]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.23.16:610][116]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.12.07-06.23.16:610][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008819s)
+[2018.12.07-06.23.16:641][116]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.23.16:664][116]LogInit: FAudioDevice initialized.
+[2018.12.07-06.23.16:694][116]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.23.16:697][116]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.23.16
+[2018.12.07-06.23.16:697][116]LogWorld: Bringing up level for play took: 0.001900
+[2018.12.07-06.23.16:711][116]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.508
+[2018.12.07-06.23.17:146][165]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.23.17:146][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.23.24:820][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.23.24:854][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.23.24:879][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.23.24:925][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.07-06.23.28:569][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.23.29:745][578]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2018.12.07-06.23.29:794][579]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.12.07-06.23.29:795][579]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.12.07-06.23.29:795][579]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.12.07-06.23.29:795][579]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.07-06.23.29:804][579]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2018.12.07-06.23.29:896][581]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2018.12.07-06.23.34:143][834]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.12.07-06.23.34:677][848]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.07-06.23.36:201][891]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.07-06.23.46:351][188]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.07-06.23.46:951][205]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.07-06.23.47:361][217]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.07-06.23.49:028][266]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.07-06.23.58:484][539]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.07-06.24.01:419][626]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-06.24.02:409][655]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-06.24.14:655][741]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/smallworld/Materials/PP_celshader_Inst.PP_celshader_Inst
+[2018.12.07-06.24.31:064][652]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.07-06.24.59:051][  0]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.12.07-06.24.59:139][  0]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/PP_celshader_Inst84E925D5449DAE159981D0AD364E132D.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Materials/PP_celshader_Inst.uasset'
+[2018.12.07-06.25.02:781][431]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.25.02:795][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.25.02:795][431]PIE: New page: PIE session: small (Dec 6, 2018, 2:25:02 PM)
+[2018.12.07-06.25.02:796][431]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.25.02:803][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007734s)
+[2018.12.07-06.25.02:804][431]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.25.02:804][431]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.12.07-06.25.02:804][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008801s)
+[2018.12.07-06.25.02:835][431]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.25.02:859][431]LogInit: FAudioDevice initialized.
+[2018.12.07-06.25.02:892][431]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.25.02:896][431]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.25.02
+[2018.12.07-06.25.02:896][431]LogWorld: Bringing up level for play took: 0.001968
+[2018.12.07-06.25.02:910][431]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.309
+[2018.12.07-06.25.03:825][536]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.25.03:826][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.25.19:165][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.25.19:202][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.25.19:228][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.25.19:273][376]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.07-06.25.20:631][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.26.07:713][139]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.07-06.26.09:462][335]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.12.07-06.26.09:511][335]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/PP_celshader_InstF1AAF0194DFBCDC6008706901A43179A.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Materials/PP_celshader_Inst.uasset'
+[2018.12.07-06.26.11:915][617]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.26.11:930][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.26.11:930][617]PIE: New page: PIE session: small (Dec 6, 2018, 2:26:11 PM)
+[2018.12.07-06.26.11:930][617]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.26.11:937][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007224s)
+[2018.12.07-06.26.11:937][617]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.26.11:937][617]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2018.12.07-06.26.11:937][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.008168s)
+[2018.12.07-06.26.11:968][617]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.26.11:992][617]LogInit: FAudioDevice initialized.
+[2018.12.07-06.26.12:024][617]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.26.12:027][617]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.26.12
+[2018.12.07-06.26.12:027][617]LogWorld: Bringing up level for play took: 0.002075
+[2018.12.07-06.26.12:041][617]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.822
+[2018.12.07-06.26.12:686][691]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.26.12:686][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.28.07:618][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.28.07:655][414]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.28.07:680][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.28.07:724][416]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.07-06.28.11:422][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.29.26:782][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.29.45:882][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.29.56:234][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.30.06:626][268]Cmd: TRANSACTION UNDO
+[2018.12.07-06.30.06:627][268]LogEditorTransaction: Undo Foliage Editing
+[2018.12.07-06.30.09:932][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.30.28:261][429]Cmd: TRANSACTION UNDO
+[2018.12.07-06.30.28:262][429]LogEditorTransaction: Undo Foliage Editing
+[2018.12.07-06.30.36:060][282]Cmd: TRANSACTION UNDO
+[2018.12.07-06.30.36:060][282]LogEditorTransaction: Undo Foliage Editing
+[2018.12.07-06.30.39:569][662]Cmd: TRANSACTION UNDO
+[2018.12.07-06.30.39:569][662]LogEditorTransaction: Undo Foliage Editing
+[2018.12.07-06.30.47:693][592]Cmd: TRANSACTION UNDO
+[2018.12.07-06.30.47:693][592]LogEditorTransaction: Undo Foliage Editing
+[2018.12.07-06.30.53:444][241]Cmd: TRANSACTION UNDO
+[2018.12.07-06.30.53:444][241]LogEditorTransaction: Undo Foliage Editing
+[2018.12.07-06.31.14:705][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.31.14:803][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.31.14:818][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.31.14:818][740]PIE: New page: PIE session: small (Dec 6, 2018, 2:31:14 PM)
+[2018.12.07-06.31.14:818][740]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.31.14:827][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008583s)
+[2018.12.07-06.31.14:827][740]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.31.14:828][740]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2018.12.07-06.31.14:828][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009929s)
+[2018.12.07-06.31.14:857][740]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.31.14:881][740]LogInit: FAudioDevice initialized.
+[2018.12.07-06.31.14:912][740]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.31.14:914][740]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.31.14
+[2018.12.07-06.31.14:915][740]LogWorld: Bringing up level for play took: 0.001961
+[2018.12.07-06.31.14:930][740]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.289
+[2018.12.07-06.31.16:294][899]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.31.16:294][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.31.46:664][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.31.46:698][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.31.46:725][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.31.46:769][520]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.07-06.31.52:148][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.31.52:217][141]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.31.52:232][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.31.52:232][141]PIE: New page: PIE session: small (Dec 6, 2018, 2:31:52 PM)
+[2018.12.07-06.31.52:232][141]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.31.52:240][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008390s)
+[2018.12.07-06.31.52:241][141]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.31.52:241][141]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2018.12.07-06.31.52:241][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009395s)
+[2018.12.07-06.31.52:271][141]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.31.52:294][141]LogInit: FAudioDevice initialized.
+[2018.12.07-06.31.52:328][141]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.31.52:331][141]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.31.52
+[2018.12.07-06.31.52:331][141]LogWorld: Bringing up level for play took: 0.001952
+[2018.12.07-06.31.52:348][141]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.87
+[2018.12.07-06.31.52:926][203]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.31.52:926][203]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.36.48:439][338]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.36.48:440][338]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.37.16:681][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.37.16:737][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.37.16:834][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.37.16:987][697]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.07-06.37.20:079][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.37.21:332][903]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (flowergirl-U)
+[2018.12.07-06.37.21:614][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-06.37.22:141][907]Cmd: CAMERA SNAP
+[2018.12.07-06.37.22:141][907]Snapped camera to the first selected object.
+[2018.12.07-06.37.34:025][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.37.39:296][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.37.39:704][692]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.37.39:762][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.37.39:762][692]PIE: New page: PIE session: small (Dec 6, 2018, 2:37:39 PM)
+[2018.12.07-06.37.39:763][692]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.37.39:789][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025771s)
+[2018.12.07-06.37.39:791][692]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.37.39:792][692]LogPlayLevel: PIE: World Init took: (0.003035s)
+[2018.12.07-06.37.39:792][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.029334s)
+[2018.12.07-06.37.39:918][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.37.40:008][692]LogInit: FAudioDevice initialized.
+[2018.12.07-06.37.40:051][692]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.37.40:061][692]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 0) at 2018.12.06-22.37.40
+[2018.12.07-06.37.40:062][692]LogWorld: Bringing up level for play took: 0.007710
+[2018.12.07-06.37.40:083][692]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.865
+[2018.12.07-06.37.40:848][721]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.37.40:849][721]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.40.35:144][957]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.40.35:145][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.40.45:369][431]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.40.45:369][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.41.55:818][967]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.41.55:818][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.42.00:718][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.42.00:755][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.42.00:800][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.42.00:881][262]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.07-06.42.12:037][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.42.21:071][470]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2018.12.07-06.42.21:540][498]LogEditorViewport: Clicking Background
+[2018.12.07-06.42.21:988][525]LogEditorViewport: Clicking Background
+[2018.12.07-06.42.22:371][548]LogEditorViewport: Clicking Background
+[2018.12.07-06.42.22:821][575]LogEditorViewport: Clicking Background
+[2018.12.07-06.42.26:205][778]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2018.12.07-06.42.26:855][817]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2018.12.07-06.42.27:305][844]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2018.12.07-06.42.27:771][872]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2018.12.07-06.42.46:723][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.42.46:789][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.42.46:804][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.42.46:804][ 13]PIE: New page: PIE session: small (Dec 6, 2018, 2:42:46 PM)
+[2018.12.07-06.42.46:805][ 13]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.42.46:813][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007991s)
+[2018.12.07-06.42.46:813][ 13]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.42.46:814][ 13]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.12.07-06.42.46:814][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009052s)
+[2018.12.07-06.42.46:848][ 13]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.42.46:876][ 13]LogInit: FAudioDevice initialized.
+[2018.12.07-06.42.46:911][ 13]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.42.46:913][ 13]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.06-22.42.46
+[2018.12.07-06.42.46:914][ 13]LogWorld: Bringing up level for play took: 0.002123
+[2018.12.07-06.42.46:928][ 13]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small -0.29
+[2018.12.07-06.42.47:602][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.42.47:602][ 52]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.42.56:034][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.42.56:074][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.42.56:101][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.42.56:174][559]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.07-06.43.33:439][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-06.43.33:638][790]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_Auto1964BA254430D567C348113832B4B0014.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/small_Auto1.umap'
+[2018.12.07-06.43.33:644][790]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/smallworld/small' took 0.185
+[2018.12.07-06.43.33:644][790]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.185
+[2018.12.07-06.43.33:647][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/brown] ([1] browsable assets)...
+[2018.12.07-06.43.33:677][790]OBJ SavePackage:     Rendered thumbnail for [Material /Game/smallworld/Meshes/brown.brown]
+[2018.12.07-06.43.33:677][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/brown]
+[2018.12.07-06.43.33:693][790]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/brown_Auto10BBF25A047EF834C6592F38D2074893D.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/brown_Auto1.uasset'
+[2018.12.07-06.43.33:697][790]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/smallworld/Materials/PP_celshader_Inst] ([1] browsable assets)...
+[2018.12.07-06.43.33:697][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Materials/PP_celshader_Inst]
+[2018.12.07-06.43.33:724][790]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.12.07-06.43.33:777][790]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/PP_celshader_Inst_Auto1B63C10EE4B5444ABDE9C829415EA2476.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Materials/PP_celshader_Inst_Auto1.uasset'
+[2018.12.07-06.43.33:781][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/stem] ([1] browsable assets)...
+[2018.12.07-06.43.33:810][790]OBJ SavePackage:     Rendered thumbnail for [Material /Game/smallworld/Meshes/stem.stem]
+[2018.12.07-06.43.33:810][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/stem]
+[2018.12.07-06.43.33:826][790]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/stem_Auto19D5EBA5F4E2354F0A368049E6FB34E19.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/stem_Auto1.uasset'
+[2018.12.07-06.43.33:830][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/mushroom] ([1] browsable assets)...
+[2018.12.07-06.43.33:862][790]OBJ SavePackage:     Rendered thumbnail for [Material /Game/smallworld/Meshes/mushroom.mushroom]
+[2018.12.07-06.43.33:862][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/mushroom]
+[2018.12.07-06.43.33:884][790]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/mushroom_Auto1D8C8A17A472C6D261FE13E93E5263049.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/mushroom_Auto1.uasset'
+[2018.12.07-06.43.33:890][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/xtrabrown] ([1] browsable assets)...
+[2018.12.07-06.43.33:917][790]OBJ SavePackage:     Rendered thumbnail for [Material /Game/smallworld/Meshes/xtrabrown.xtrabrown]
+[2018.12.07-06.43.33:917][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/xtrabrown]
+[2018.12.07-06.43.33:932][790]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/xtrabrown_Auto18DF94A9149BD3D344C75239D1698B1E3.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/xtrabrown_Auto1.uasset'
+[2018.12.07-06.43.33:936][790]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/mushroomtop] ([1] browsable assets)...
+[2018.12.07-06.43.33:965][790]OBJ SavePackage:     Rendered thumbnail for [Material /Game/smallworld/Meshes/mushroomtop.mushroomtop]
+[2018.12.07-06.43.33:965][790]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/mushroomtop]
+[2018.12.07-06.43.33:998][790]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/mushroomtop_Auto1670739FA48C4B8726E21CFB894702630.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/mushroomtop_Auto1.uasset'
+[2018.12.07-06.43.34:001][790]LogFileHelpers: Auto-saving content packages took 0.356
+[2018.12.07-06.45.05:968][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.45.06:034][296]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.45.06:056][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.45.06:056][296]PIE: New page: PIE session: small (Dec 6, 2018, 2:45:06 PM)
+[2018.12.07-06.45.06:056][296]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.45.06:064][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007976s)
+[2018.12.07-06.45.06:065][296]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.45.06:065][296]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2018.12.07-06.45.06:066][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.009117s)
+[2018.12.07-06.45.06:102][296]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.45.06:130][296]LogInit: FAudioDevice initialized.
+[2018.12.07-06.45.06:167][296]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.45.06:170][296]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.06-22.45.06
+[2018.12.07-06.45.06:170][296]LogWorld: Bringing up level for play took: 0.002203
+[2018.12.07-06.45.06:184][296]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.965
+[2018.12.07-06.45.06:520][315]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.45.06:521][315]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.45.21:221][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.45.21:259][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.45.21:288][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.45.21:374][198]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.07-06.45.24:660][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.45.32:349][835]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/smallworld/Meshes/flowergirl-music_Skeleton.flowergirl-music_Skeleton
+[2018.12.07-06.45.32:390][835]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.12.07-06.45.34:719][835]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.45.34:819][835]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.45.34:845][835]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0013 seconds. Added 1 classes and 0 folders.
+[2018.12.07-06.45.35:002][835]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.45.36:044][835]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0009 seconds. Added 1 classes and 0 folders.
+[2018.12.07-06.45.49:131][547]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.07-06.45.50:942][639]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2018.12.07-06.45.51:142][639]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/PP_celshader_Inst8DCD3086415C52D08EFC39B1B41CEFAB.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Materials/PP_celshader_Inst.uasset'
+[2018.12.07-06.46.03:575][921]LogSlate: Window 'Delete Assets' being destroyed
+[2018.12.07-06.46.07:128][921]LogSkeletalMesh: Building Skeletal Mesh flowergirl-music...
+[2018.12.07-06.46.07:139][921]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/smallworld/Meshes/flowergirl-music.flowergirl-music
+[2018.12.07-06.46.07:150][921]LogSkeletalMesh: Building Skeletal Mesh flowergirl-music...
+[2018.12.07-06.46.07:163][921]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/smallworld/Meshes/flowergirl-music.flowergirl-music
+[2018.12.07-06.46.07:167][921]LogSkeletalMesh: Building Skeletal Mesh flowergirl-U...
+[2018.12.07-06.46.07:179][921]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/smallworld/Meshes/flowergirl-U.flowergirl-U
+[2018.12.07-06.46.07:857][921]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.07:861][921]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.07:861][921]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.07:895][923]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.07:973][924]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.08:178][932]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.08:353][941]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.08:502][950]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.08:653][959]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.08:803][968]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.08:953][977]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.09:103][986]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.18:001][ 77]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Maria\Documents\BFA project\flowergirl-music2.fbx)
+[2018.12.07-06.46.18:017][ 77]LogFbx: Loading FBX Scene from C:\Users\Maria\Documents\BFA project\flowergirl-music2.fbx
+[2018.12.07-06.46.18:061][ 77]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.07-06.46.25:141][ 77]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.12.07-06.46.25:192][ 77]FBXImport: Error: Mesh contains Root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2018.12.07-06.46.25:193][ 77]FBXImport: Error: Import failed. 
+[2018.12.07-06.46.28:204][ 77]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.46.28:209][ 77]LogAssetTools: Warning: Failed to import 'C:\Users\Maria\Documents\BFA project\flowergirl-music2.fbx'. Failed to create asset '/Game/smallworld/Meshes/flowergirl-music2'.
+Please see Output Log for details.
+[2018.12.07-06.46.28:567][ 90]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.28:717][ 99]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.28:867][108]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.29:934][172]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.46.29:943][172]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.46.30:189][187]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.30:340][196]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.30:494][205]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.30:640][214]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.30:789][223]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.30:939][232]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.31:090][241]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.31:239][250]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.31:389][259]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.31:540][268]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.31:689][277]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.31:839][286]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.31:992][295]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.32:140][304]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.32:289][313]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.32:442][322]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.32:595][331]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.32:741][340]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.32:891][349]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.33:042][358]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.33:196][367]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.33:342][376]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.33:493][385]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.33:641][394]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.33:793][403]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.33:943][412]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.34:092][421]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.34:241][430]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.34:392][439]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.34:543][448]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.34:691][457]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.34:842][466]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.34:991][475]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.35:143][484]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.35:292][493]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.35:443][502]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.35:592][511]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.35:743][520]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.35:892][529]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.36:043][538]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.36:192][547]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.36:343][556]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.36:493][565]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.36:642][574]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.36:792][583]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.36:942][592]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.37:092][601]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.37:242][610]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.37:392][619]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.37:542][628]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.37:692][637]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.37:843][646]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.37:992][655]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.38:142][664]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.38:475][684]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.38:625][693]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.38:776][702]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.38:929][711]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.39:078][720]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.39:228][729]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.39:379][738]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.39:528][747]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.39:679][756]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.39:829][765]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.39:979][774]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.40:129][783]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.40:279][792]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.40:428][801]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.40:579][810]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.40:729][819]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.46.43:726][996]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Skeleton.flowergirl-rootfile2_Skeleton
+[2018.12.07-06.46.43:763][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.46.43:793][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.47.03:151][117]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/animation/flowergirl-rootfile2.flowergirl-rootfile2
+[2018.12.07-06.47.03:171][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.47.03:223][117]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.47.10:071][489]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.11:742][589]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.11:758][590]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.11:779][591]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.11:796][592]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.14:318][736]LogSlate: Window 'flowergirl-rootfile2' being destroyed
+[2018.12.07-06.47.18:329][974]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.18:329][974]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.18:486][982]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.18:602][989]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.18:752][998]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.18:903][  7]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.19:052][ 16]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.19:206][ 25]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.19:352][ 34]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.19:501][ 43]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.19:652][ 52]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.19:802][ 61]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.19:951][ 70]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.20:102][ 79]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.20:252][ 88]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.20:402][ 97]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.20:552][106]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.20:703][115]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.20:852][124]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.21:002][133]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.21:152][142]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.21:277][148]LogLinker: Warning: Can't find file '/Game/smallworld/Meshes/flowergirl-music_Skeleton'
+[2018.12.07-06.47.21:277][148]LogLinker: Warning: Can't find file for asset '/Game/smallworld/Meshes/flowergirl-music_Skeleton' while loading ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/flowergirl-t2.uasset.
+[2018.12.07-06.47.21:277][148]LoadErrors: Error: /Game/smallworld/Meshes/flowergirl-t2 : Can't find file for asset. /Game/smallworld/Meshes/flowergirl-music_Skeleton
+[2018.12.07-06.47.21:282][148]LogLinker: Warning: Can't find file '/Game/smallworld/Meshes/flowergirl-music_Skeleton'
+[2018.12.07-06.47.21:282][148]LogLinker: Warning: Can't find file for asset '/Game/smallworld/Meshes/flowergirl-music_Skeleton' while loading ../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/flowergirl-t2.uasset.
+[2018.12.07-06.47.21:283][148]LogLinker: Warning: Can't find file '/Game/smallworld/Meshes/flowergirl-music_Skeleton'
+[2018.12.07-06.47.21:283][148]LoadErrors: Failed to load /Game/smallworld/Meshes/flowergirl-music_Skeleton.flowergirl-music_Skeleton Referenced by flowergirl-t2
+[2018.12.07-06.47.21:283][148]LogLinker: Warning: Can't find file for asset '/Game/smallworld/Meshes/flowergirl-music_Skeleton' while loading NULL.
+[2018.12.07-06.47.21:307][148]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/flowergirl-t2.flowergirl-t2
+[2018.12.07-06.47.24:227][148]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.47.24:256][148]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.47.24:294][148]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.47.24:942][150]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.24:968][151]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.47.27:400][294]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/smallworld/Meshes/flowergirl-t2_Skeleton.flowergirl-t2_Skeleton
+[2018.12.07-06.47.27:421][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.47.27:461][294]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.48.26:052][785]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.26:053][785]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:103][848]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:104][848]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:260][857]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:261][857]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:407][866]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:408][866]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:557][875]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:558][875]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:707][884]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:707][884]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:857][893]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.27:857][893]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.28:006][902]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.28:008][902]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.48.32:203][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-06.48.38:436][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.48.51:421][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.48.54:376][897]Cmd: TRANSACTION UNDO
+[2018.12.07-06.48.54:376][897]LogEditorTransaction: Undo Scale Actors
+[2018.12.07-06.48.55:978][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.55:985][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.55:993][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.56:050][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.56:132][897]Cmd: TRANSACTION UNDO
+[2018.12.07-06.48.56:133][897]LogEditorTransaction: Undo Move Actors
+[2018.12.07-06.48.57:756][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.57:765][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.57:773][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.57:832][897]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.48.59:829][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.04:181][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.09:411][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.18:486][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.25:587][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.29:727][117]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.49.29:785][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.49.29:786][117]PIE: New page: PIE session: small (Dec 6, 2018, 2:49:29 PM)
+[2018.12.07-06.49.29:786][117]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.49.29:823][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036406s)
+[2018.12.07-06.49.29:825][117]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.49.29:826][117]LogPlayLevel: PIE: World Init took: (0.002904s)
+[2018.12.07-06.49.29:826][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.039897s)
+[2018.12.07-06.49.29:958][117]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.49.30:042][117]LogInit: FAudioDevice initialized.
+[2018.12.07-06.49.30:090][117]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.49.30:102][117]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.06-22.49.30
+[2018.12.07-06.49.30:103][117]LogWorld: Bringing up level for play took: 0.010090
+[2018.12.07-06.49.30:126][117]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.907
+[2018.12.07-06.49.30:965][141]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.49.30:965][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.49.34:092][267]LogScript: Warning: Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue
+	FirstPersonCharacter_C /Game/smallworld/UEDPIE_0_small.small:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter:0053
+[2018.12.07-06.49.34:093][267]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.49.35:875][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.49.35:932][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.49.36:034][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.49.36:185][344]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.07-06.49.37:584][398]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (flowergirl-rootfile2_Skeleton)
+[2018.12.07-06.49.37:832][398]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-06.49.38:715][424]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (flowergirl-rootfile2_Skeleton)
+[2018.12.07-06.49.43:599][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.49:355][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-06.49.53:987][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.57:412][ 28]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (flowergirl-U)
+[2018.12.07-06.49.58:688][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.49.59:669][101]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-06.49.59:718][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-06.49.59:718][101]PIE: New page: PIE session: small (Dec 6, 2018, 2:49:59 PM)
+[2018.12.07-06.49.59:718][101]LogPlayLevel: Creating play world package: /Game/smallworld/UEDPIE_0_small
+[2018.12.07-06.49.59:744][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025917s)
+[2018.12.07-06.49.59:746][101]LogAIModule: Creating AISystem for world small
+[2018.12.07-06.49.59:747][101]LogPlayLevel: PIE: World Init took: (0.002247s)
+[2018.12.07-06.49.59:747][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/smallworld/small.small to /Game/smallworld/UEDPIE_0_small.small (0.028608s)
+[2018.12.07-06.49.59:862][101]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-06.49.59:943][101]LogInit: FAudioDevice initialized.
+[2018.12.07-06.49.59:993][101]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.12.07-06.50.00:006][101]LogWorld: Bringing World /Game/smallworld/UEDPIE_0_small.small up for play (max tick rate 60) at 2018.12.06-22.50.00
+[2018.12.07-06.50.00:008][101]LogWorld: Bringing up level for play took: 0.011765
+[2018.12.07-06.50.00:035][101]PIE: Play in editor start time for /Game/smallworld/UEDPIE_0_small 0.816
+[2018.12.07-06.50.00:860][127]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetAnimInstance_ReturnValue". Blueprint:  FirstPersonCharacter Function:  Execute Ubergraph First Person Character Graph:  EventGraph Node:  Montage Play
+[2018.12.07-06.50.19:835][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.50.19:874][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-06.50.19:904][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-06.50.19:993][104]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.07-06.50.22:111][228]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (flowergirl-rootfile2_Skeleton)
+[2018.12.07-06.50.25:021][396]Cmd: DELETE
+[2018.12.07-06.50.25:021][396]Cmd: ACTOR DELETE
+[2018.12.07-06.50.25:032][396]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.12.07-06.50.25:033][396]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.12.07-06.50.25:061][396]LogEditorActor: Deleted 2 Actors (0.037 secs)
+[2018.12.07-06.50.27:473][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.50.27:875][564]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Anim.flowergirl-rootfile2_Anim
+[2018.12.07-06.50.27:896][564]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.50.27:923][564]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.50.28:360][564]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.07-06.50.32:646][820]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.50.44:954][555]LogEditorFactories: Performing atomic reimport of [C:/Users/Maria/Documents/BFA project/flowergirl-rootfile2.fbx]
+[2018.12.07-06.50.45:008][555]LogFbx: Loading FBX Scene from C:/Users/Maria/Documents/BFA project/flowergirl-rootfile2.fbx
+[2018.12.07-06.50.45:062][555]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.07-06.50.45:068][555]LogFbx: =================================================
+[2018.12.07-06.50.45:068][555]LogFbx: Dumping Node START [body] 
+[2018.12.07-06.50.45:068][555]LogFbx: 	Total Deformer Count 1950328400.
+[2018.12.07-06.50.45:068][555]LogFbx: 		[Node 1] Root (Type Skin).
+[2018.12.07-06.50.45:068][555]LogFbx: =================================================
+[2018.12.07-06.50.45:068][555]LogFbx: 	Attribute (bodyMesh) Type (4).
+[2018.12.07-06.50.45:068][555]LogFbx: 		[Node Attribute Child 1] body (Type Mesh).
+[2018.12.07-06.50.45:068][555]LogFbx: Dumping Node END [body]
+[2018.12.07-06.50.45:070][555]LogFbx: =================================================
+[2018.12.07-06.50.45:070][555]LogFbx: Dumping Node START [body] 
+[2018.12.07-06.50.45:070][555]LogFbx: 	Total Deformer Count 1950328400.
+[2018.12.07-06.50.45:070][555]LogFbx: 		[Node 1] Root (Type Skin).
+[2018.12.07-06.50.45:070][555]LogFbx: =================================================
+[2018.12.07-06.50.45:070][555]LogFbx: 	Attribute (bodyMesh) Type (4).
+[2018.12.07-06.50.45:070][555]LogFbx: 		[Node Attribute Child 1] body (Type Mesh).
+[2018.12.07-06.50.45:070][555]LogFbx: Dumping Node END [body]
+[2018.12.07-06.50.45:072][555]LogFbx: Valid bind pose for Pose (bodyMesh) - body
+[2018.12.07-06.50.45:082][555]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/smallworld/Meshes/skin.skin or Material /Game/smallworld/Meshes/animation/skin.skin
+[2018.12.07-06.50.45:082][555]LogFbx: Warning: Bones digested - 79  Depth of hierarchy - 14
+[2018.12.07-06.50.45:210][555]LogSkeletalMesh: Section 0: 2145 vertices, 52 active bones
+[2018.12.07-06.50.45:216][555]LogSkeletalMesh: Section 0: Material=0, 2725 triangles
+[2018.12.07-06.50.45:217][555]LogSkeletalMesh: Building Skeletal Mesh flowergirl-rootfile2...
+[2018.12.07-06.50.45:220][555]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/smallworld/Meshes/animation/flowergirl-rootfile2.flowergirl-rootfile2
+[2018.12.07-06.50.45:225][555]LogEditorFactories: -- imported successfully
+[2018.12.07-06.50.45:239][555]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.12.07-06.50.45:239][555]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig_HeadTop_End_end  
+mixamorig_LeftHandThumb4_end  
+mixamorig_LeftHandIndex4_end  
+mixamorig_LeftHandMiddle4_end  
+mixamorig_LeftHandRing4_end  
+mixamorig_LeftHandPinky4_end  
+mixamorig_RightHandThumb4_end  
+mixamorig_RightHandIndex4_end  
+mixamorig_RightHandMiddle4_end  
+mixamorig_RightHandRing4_end  
+mixamorig_RightHandPinky4_end  
+mixamorig_LeftToe_End_end  
+mixamorig_RightToe_End_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.12.07-06.50.45:240][555]LogSkeletalMesh: Building Skeletal Mesh flowergirl-rootfile2...
+[2018.12.07-06.50.45:243][555]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/smallworld/Meshes/animation/flowergirl-rootfile2.flowergirl-rootfile2
+[2018.12.07-06.54.16:160][679]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/small_Auto292B4D02447C8B49A4DDC67ABA0039607.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/small_Auto2.umap'
+[2018.12.07-06.54.16:166][679]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/smallworld/small' took 0.170
+[2018.12.07-06.54.16:166][679]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.170
+[2018.12.07-06.54.16:170][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/flowergirl-U] ([1] browsable assets)...
+[2018.12.07-06.54.16:170][679]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.54.16:201][679]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/smallworld/Meshes/flowergirl-U.flowergirl-U]
+[2018.12.07-06.54.16:201][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/flowergirl-U]
+[2018.12.07-06.54.16:255][679]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/flowergirl-U_Auto271EE2CBD44C27303125591B900C1810B.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/flowergirl-U_Auto2.uasset'
+[2018.12.07-06.54.16:260][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/animation/flowergirl-rootfile2] ([1] browsable assets)...
+[2018.12.07-06.54.16:288][679]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/smallworld/Meshes/animation/flowergirl-rootfile2.flowergirl-rootfile2]
+[2018.12.07-06.54.16:288][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/animation/flowergirl-rootfile2]
+[2018.12.07-06.54.16:337][679]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/flowergirl-rootfile2_Auto2535B300E49CF18ACDBB81BA1FFE62493.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/animation/flowergirl-rootfile2_Auto2.uasset'
+[2018.12.07-06.54.16:341][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/smallworld/Meshes/flowergirl-t2] ([1] browsable assets)...
+[2018.12.07-06.54.16:371][679]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/smallworld/Meshes/flowergirl-t2.flowergirl-t2]
+[2018.12.07-06.54.16:371][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/flowergirl-t2]
+[2018.12.07-06.54.16:483][679]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/flowergirl-t2_Auto2088216AF437C30F9FB04AE98EB6C74E8.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/flowergirl-t2_Auto2.uasset'
+[2018.12.07-06.54.16:488][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/smallworld/Meshes/flowergirl-t2_Skeleton] ([1] browsable assets)...
+[2018.12.07-06.54.16:488][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/smallworld/Meshes/flowergirl-t2_Skeleton]
+[2018.12.07-06.54.16:520][679]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/flowergirl-t2_Skeleton_Auto2F5CACB684809F959A3DD6BBE9F37D992.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/Autosaves/Game/smallworld/Meshes/flowergirl-t2_Skeleton_Auto2.uasset'
+[2018.12.07-06.54.16:523][679]LogFileHelpers: Auto-saving content packages took 0.354
+[2018.12.07-06.55.03:649][120]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.03:650][120]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.03:788][126]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.03:789][126]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.03:921][134]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.03:921][134]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:071][143]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:072][143]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:224][152]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:224][152]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:657][178]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:657][178]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:807][187]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:807][187]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:959][196]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.04:959][196]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:108][205]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:109][205]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:259][214]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:259][214]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:408][223]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:409][223]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:558][232]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:559][232]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:709][241]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:709][241]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:860][250]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.05:860][250]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:010][259]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:010][259]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:160][268]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:160][268]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:316][277]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:316][277]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:470][286]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:470][286]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:620][295]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:621][295]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:771][304]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:771][304]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:921][313]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.06:922][313]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:072][322]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:072][322]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:221][331]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:222][331]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:371][340]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:372][340]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:522][349]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:522][349]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:671][358]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:672][358]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:822][367]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:823][367]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:971][376]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.07:972][376]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:122][385]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:122][385]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:274][394]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:275][394]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:426][403]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:427][403]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:575][412]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:576][412]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:725][421]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:725][421]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:875][430]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.08:876][430]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:026][439]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:026][439]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:175][448]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:175][448]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:326][457]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:326][457]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:478][466]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:478][466]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:632][475]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:632][475]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:783][484]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:783][484]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:930][493]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.09:931][493]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:081][502]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:082][502]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:231][511]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:232][511]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:381][520]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:382][520]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:531][529]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:532][529]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.10:675][536]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/flowergirl-U.flowergirl-U
+[2018.12.07-06.55.14:754][536]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.55.14:810][536]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.12.07-06.55.21:223][536]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.12.07-06.55.22:759][536]LogSlate: Window 'Merge Bones' being destroyed
+[2018.12.07-06.55.24:549][536]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.55.24:561][536]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Anim.flowergirl-rootfile2_Anim
+[2018.12.07-06.55.24:562][536]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.flowergirl-rootfile2_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.07-06.55.28:390][536]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.55.29:602][536]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.55.29:611][536]LoadErrors: Error: The Skeleton  flowergirl-rootfile2_Skeleton is missing bones that SkeletalMesh  flowergirl-rootfile2 needs. They will be added now. Please save the Skeleton!
+[2018.12.07-06.55.29:738][538]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.29:738][538]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.32:373][693]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.55.32:383][693]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.55.33:079][735]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:080][735]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:229][744]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:230][744]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:382][753]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:382][753]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:631][768]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:631][768]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:915][785]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.33:916][785]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:065][794]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:066][794]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:215][803]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:216][803]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:365][812]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:366][812]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:515][821]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:515][821]LogAnimation: Warning: SkeletalMesh flowergirl-U has no skeleton. This needs to fixed before an animation can be set
+[2018.12.07-06.55.34:670][829]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/flowergirl-U.flowergirl-U
+[2018.12.07-06.57.30:955][829]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.57.31:007][829]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.12.07-06.57.40:209][829]LogSlate: Window 'Choose Skeleton' being destroyed
+[2018.12.07-06.57.40:256][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.57.40:296][829]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.57.44:642][829]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.57.46:922][946]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.57.46:929][946]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-06.58.17:569][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-06.58.47:257][360]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Anim.flowergirl-rootfile2_Anim
+[2018.12.07-06.58.51:721][360]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.58.51:728][360]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Anim.flowergirl-rootfile2_Anim
+[2018.12.07-06.58.51:729][360]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.07-06.58.51:734][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.58.51:773][360]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.58.52:179][360]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.07-06.58.58:734][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.59.02:190][960]LogEditorFactories: Performing atomic reimport of [C:/Users/Maria/Documents/BFA project/flowergirl-rootfile2.fbx]
+[2018.12.07-06.59.02:237][960]LogFbx: Loading FBX Scene from C:/Users/Maria/Documents/BFA project/flowergirl-rootfile2.fbx
+[2018.12.07-06.59.02:297][960]LogFbx: FBX Scene Loaded Succesfully
+[2018.12.07-06.59.02:302][960]LogFbx: =================================================
+[2018.12.07-06.59.02:302][960]LogFbx: Dumping Node START [body] 
+[2018.12.07-06.59.02:302][960]LogFbx: 	Total Deformer Count 1585138608.
+[2018.12.07-06.59.02:302][960]LogFbx: 		[Node 1] Root (Type Skin).
+[2018.12.07-06.59.02:302][960]LogFbx: =================================================
+[2018.12.07-06.59.02:302][960]LogFbx: 	Attribute (bodyMesh) Type (4).
+[2018.12.07-06.59.02:303][960]LogFbx: 		[Node Attribute Child 1] body (Type Mesh).
+[2018.12.07-06.59.02:303][960]LogFbx: Dumping Node END [body]
+[2018.12.07-06.59.02:304][960]LogFbx: =================================================
+[2018.12.07-06.59.02:304][960]LogFbx: Dumping Node START [body] 
+[2018.12.07-06.59.02:304][960]LogFbx: 	Total Deformer Count 1585138608.
+[2018.12.07-06.59.02:304][960]LogFbx: 		[Node 1] Root (Type Skin).
+[2018.12.07-06.59.02:304][960]LogFbx: =================================================
+[2018.12.07-06.59.02:304][960]LogFbx: 	Attribute (bodyMesh) Type (4).
+[2018.12.07-06.59.02:304][960]LogFbx: 		[Node Attribute Child 1] body (Type Mesh).
+[2018.12.07-06.59.02:304][960]LogFbx: Dumping Node END [body]
+[2018.12.07-06.59.02:308][960]LogFbx: Parsing AnimStack Root|ArmatureAction
+[2018.12.07-06.59.03:343][960]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Anim.flowergirl-rootfile2_Anim
+[2018.12.07-06.59.03:344][960]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.07-06.59.03:365][960]LogEditorFactories: -- imported successfully
+[2018.12.07-06.59.06:030][111]LogSavePackage: Moving '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Saved/flowergirl-rootfile2_Anim8AC676654833E72794A81FA6543E9C80.tmp' to '../../../../../../Users/Maria/Documents/Unreal Projects/Small-World/smolworld/Content/smallworld/Meshes/animation/flowergirl-rootfile2_Anim.uasset'
+[2018.12.07-06.59.11:980][445]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/flowergirl-U.flowergirl-U
+[2018.12.07-06.59.14:958][445]LogSlate: Window 'Message' being destroyed
+[2018.12.07-06.59.26:408][ 76]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/flowergirl-t2.flowergirl-t2
+[2018.12.07-06.59.26:426][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.59.26:467][ 76]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.59.29:500][207]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/smallworld/Meshes/flowergirl-t2_Skeleton.flowergirl-t2_Skeleton
+[2018.12.07-06.59.29:521][207]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-06.59.29:562][207]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-06.59.56:680][141]LogSlate: Window 'Select folder to import to' being destroyed
+[2018.12.07-07.00.21:639][613]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/flowergirl-U.flowergirl-U
+[2018.12.07-07.00.23:454][613]LogSlate: Window 'Message' being destroyed
+[2018.12.07-07.00.27:957][838]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/smallworld/Meshes/flowergirl-U.flowergirl-U
+[2018.12.07-07.00.29:211][838]LogSlate: Window 'Message' being destroyed
+[2018.12.07-07.00.29:222][838]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Anim.flowergirl-rootfile2_Anim
+[2018.12.07-07.00.29:224][838]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_2) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.07-07.00.29:228][838]LogAnimationCompression: Building Anim DDC data for AnimSequence /Engine/Transient.flowergirl-rootfile2_Anim
+[2018.12.07-07.00.29:229][838]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_3) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.12.07-07.00.29:235][838]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.07-07.00.29:274][838]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.07-07.00.31:086][838]LogSlate: Window 'Message' being destroyed
+[2018.12.07-07.00.32:806][922]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-07.00.32:814][922]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-07.00.37:242][173]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/smallworld/Meshes/animation/flowergirl-rootfile2_Skeleton.flowergirl-rootfile2_Skeleton
+[2018.12.07-07.00.40:057][173]LogSlate: Window 'Message' being destroyed
+[2018.12.07-07.00.55:141][729]LogSlate: Window 'Save Mapping' being destroyed
+[2018.12.07-07.01.14:026][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-07.01.20:696][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-07.01.27:981][666]LogAssetEditorManager: Opening Asset editor for NodeMappingContainer /Game/smallworld/Meshes/animation/Flowergirl-mapped.Flowergirl-mapped
+[2018.12.07-07.01.42:864][869]LogStats: FPlatformStackWalk::StackWalkAndDump - 11.274 s
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: 
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: Ensure condition failed: 0 [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\AssetThumbnail.cpp] [Line: 900]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: Thumbnail info for '/Game/FirstPerson/Animations/FirstPersonFire_Montage.FirstPersonFire_Montage' is still referenced by '3' other objects
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: Stack: 
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe24d571f6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [d:\build\++ue4\sync\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:236]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe24a90c92 UE4Editor-Core.dll!FDebug::EnsureFailed() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:305]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe24aab356 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalseImpl() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\assertionmacros.cpp:439]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe187c20b9 UE4Editor-UnrealEd.dll!FAssetThumbnailPool::ReleaseResources() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\assetthumbnail.cpp:900]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe18745078 UE4Editor-UnrealEd.dll!FAssetThumbnailPool::~FAssetThumbnailPool() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\assetthumbnail.cpp:837]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1874d99f UE4Editor-UnrealEd.dll!FAssetThumbnailPool::`vector deleting destructor'() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe08191938 UE4Editor-ContentBrowser.dll!SAssetView::~SAssetView() [d:\build\++ue4\sync\engine\source\editor\contentbrowser\private\sassetview.cpp:106]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d07496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d10255 UE4Editor-SlateCore.dll!SVerticalBox::~SVerticalBox() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c03755a UE4Editor-Slate.dll!SBox::~SBox() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c1006a6 UE4Editor-Slate.dll!FWidgetBlock::`scalar deleting destructor'() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c0f4caf UE4Editor-Slate.dll!SMultiBlockDragHandle::~SMultiBlockDragHandle() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0738e UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d10215 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d07496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d101c5 UE4Editor-SlateCore.dll!SHorizontalBox::~SHorizontalBox() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d07496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d10255 UE4Editor-SlateCore.dll!SVerticalBox::~SVerticalBox() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c25fec6 UE4Editor-Slate.dll!TIndirectArray<SScrollBox::FSlot,FDefaultAllocator>::~TIndirectArray<SScrollBox::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c29511a UE4Editor-Slate.dll!SharedPointerInternals::TIntrusiveReferenceController<SScrollPanel>::DestroyObject() [d:\build\++ue4\sync\engine\source\runtime\core\public\templates\sharedpointerinternals.h:145]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0738e UE4Editor-SlateCore.dll!TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>::~TIndirectArray<SOverlay::FOverlaySlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d10215 UE4Editor-SlateCore.dll!SOverlay::~SOverlay() []
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d07496 UE4Editor-SlateCore.dll!TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>::~TIndirectArray<SBoxPanel::FSlot,FDefaultAllocator>() [d:\build\++ue4\sync\engine\source\runtime\core\public\containers\indirectarray.h:65]
+[2018.12.07-07.01.42:864][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d101c5 UE4Editor-SlateCore.dll!SHorizontalBox::~SHorizontalBox() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c03755a UE4Editor-Slate.dll!SBox::~SBox() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d0f39a UE4Editor-SlateCore.dll!FSlotBase::~FSlotBase() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\slotbase.cpp:77]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29d100e7 UE4Editor-SlateCore.dll!SCompoundWidget::~SCompoundWidget() []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c0b8e0c UE4Editor-Slate.dll!FSlateApplication::SetUserFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2872]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c066ccc UE4Editor-Slate.dll!FSlateApplication::ForEachUser() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:4673]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c0b497d UE4Editor-Slate.dll!FSlateApplication::SetAllUserFocus() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2962]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe29dba99d UE4Editor-SlateCore.dll!SWindow::OnIsActiveChanged() [d:\build\++ue4\sync\engine\source\runtime\slatecore\private\widgets\swindow.cpp:1554]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c09ab22 UE4Editor-Slate.dll!FSlateApplication::ProcessWindowActivatedEvent() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6724]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c08e954 UE4Editor-Slate.dll!FSlateApplication::OnWindowActivationChanged() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:6687]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe49b4ca73 UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1902]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe49b40270 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2182]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe49b4f6ea UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1109]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe49b3c209 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:732]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe93e66d41 USER32.dll!UnknownFunction []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe93e66a1c USER32.dll!UnknownFunction []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe93e704d3 USER32.dll!UnknownFunction []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe950fdc14 ntdll.dll!UnknownFunction []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe92281504 win32u.dll!UnknownFunction []
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe49b47553 UE4Editor-ApplicationCore.dll!FWindowsWindow::Initialize() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowswindow.cpp:271]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe49b483e0 UE4Editor-ApplicationCore.dll!FWindowsApplication::InitializeWindow() [d:\build\++ue4\sync\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:294]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c081fe7 UE4Editor-Slate.dll!FSlateApplication::MakeWindow() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2047]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c048502 UE4Editor-Slate.dll!FSlateApplication::AddWindowAsNativeChild() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2255]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe2c046f10 UE4Editor-Slate.dll!FSlateApplication::AddModalWindow() [d:\build\++ue4\sync\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2132]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe18ad1156 UE4Editor-UnrealEd.dll!UEditorEngine::EditorAddModalWindow() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:4044]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe18a58de9 UE4Editor-UnrealEd.dll!OpenMsgDlgInt() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\dialogs\dialogs.cpp:360]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe24afa1fe UE4Editor-Core.dll!FMessageDialog::Open() [d:\build\++ue4\sync\engine\source\runtime\core\private\misc\messagedialog.cpp:129]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a1c85bd UE4Editor-Engine.dll!USkeleton::BuildLinkup() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\skeleton.cpp:474]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a1eecc5 UE4Editor-Engine.dll!USkeleton::GetMeshLinkupIndex() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\skeleton.cpp:421]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a2fff8d UE4Editor-Engine.dll!FBoneContainer::RemapFromSkelMesh() [d:\build\++ue4\sync\engine\source\runtime\engine\private\bonecontainer.cpp:403]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a2f2557 UE4Editor-Engine.dll!FBoneContainer::Initialize() [d:\build\++ue4\sync\engine\source\runtime\engine\private\bonecontainer.cpp:110]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a1133a1 UE4Editor-Engine.dll!FAnimInstanceProxy::RecalcRequiredBones() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\animinstanceproxy.cpp:1044]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a113c1b UE4Editor-Engine.dll!UAnimInstance::RecalcRequiredBones() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\animinstance.cpp:1089]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a1037a0 UE4Editor-Engine.dll!UAnimInstance::InitializeAnimation() [d:\build\++ue4\sync\engine\source\runtime\engine\private\animation\animinstance.cpp:201]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe187a3ded UE4Editor-UnrealEd.dll!UDebugSkelMeshComponent::InitAnim() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\animation\debugskelmeshcomponent.cpp:290]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1a4adf72 UE4Editor-Engine.dll!USkeletalMeshComponent::SetSkeletalMesh() [d:\build\++ue4\sync\engine\source\runtime\engine\private\components\skeletalmeshcomponent.cpp:2485]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe193f72cc UE4Editor-UnrealEd.dll!FAnimationSequenceThumbnailScene::SetAnimation() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\thumbnailhelpers.cpp:591]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe19386a01 UE4Editor-UnrealEd.dll!UAnimSequenceThumbnailRenderer::Draw() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\thumbnailrendering\animsequencethumbnailrenderer.cpp:26]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe19069e49 UE4Editor-UnrealEd.dll!ThumbnailTools::RenderThumbnail() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\objecttools.cpp:3855]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe187d9e9a UE4Editor-UnrealEd.dll!FAssetThumbnailPool::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\assetthumbnail.cpp:1016]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe1870e612 UE4Editor-UnrealEd.dll!FTickableEditorObject::TickObjects() [d:\build\++ue4\sync\engine\source\editor\unrealed\public\tickableeditorobject.h:45]
+[2018.12.07-07.01.42:865][869]LogOutputDevice: Error: [Callstack] 0x00007ffe18b064b2 UE4Editor-UnrealEd.dll!UEditorEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\editorengine.cpp:1482]
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ffe193ff666 UE4Editor-UnrealEd.dll!UUnrealEdEngine::Tick() [d:\build\++ue4\sync\engine\source\editor\unrealed\private\unrealedengine.cpp:403]
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ff705485cbd UE4Editor.exe!FEngineLoop::Tick() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launchengineloop.cpp:3495]
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ff705495b3c UE4Editor.exe!GuardedMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\launch.cpp:166]
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ff705495bba UE4Editor.exe!GuardedMainWrapper() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ff7054a3dac UE4Editor.exe!WinMain() [d:\build\++ue4\sync\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ff7054a5aaa UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:283]
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ffe94a43034 KERNEL32.DLL!UnknownFunction []
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: [Callstack] 0x00007ffe950d1471 ntdll.dll!UnknownFunction []
+[2018.12.07-07.01.42:866][869]LogOutputDevice: Error: 
+[2018.12.07-07.01.42:869][869]LogStats:                SubmitErrorReport -  0.000 s
+[2018.12.07-07.01.43:787][869]LogStats:                    SendNewReport -  0.918 s
+[2018.12.07-07.01.43:787][869]LogStats:             FDebug::EnsureFailed - 12.197 s
+[2018.12.07-07.01.47:143][869]LogSlate: Window 'Message' being destroyed
+[2018.12.07-07.01.47:150][869]LoadErrors: Error: The Skeleton  SK_Mannequin_Arms_Skeleton is missing bones that SkeletalMesh  SK_Mannequin_Arms needs. They will be added now. Please save the Skeleton!
+[2018.12.07-07.01.47:212][869]LogWindows: Windows GetLastError: The operation completed successfully. (0)
